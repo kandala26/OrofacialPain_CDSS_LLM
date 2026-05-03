@@ -1,0 +1,10 @@
+broad_case_group,architecture,primary_diagnosis_accuracy,differential_diagnosis_quality,clinical_reasoning_quality,guideline_adherence,overall_clinical_usefulness,mean_score
+Headache,arch1,2.5,4.0,4.0,3.5,3.5,3.5
+Headache,arch2,4.5,5.0,4.0,4.0,4.0,4.300000000000001
+Headache,arch3,4.5,4.0,4.5,4.0,4.0,4.199999999999999
+Musculoskeletal/TMD,arch1,4.5,4.5,4.5,4.5,4.25,4.45
+Musculoskeletal/TMD,arch2,4.25,4.25,4.25,3.75,3.75,4.050000000000001
+Musculoskeletal/TMD,arch3,4.25,4.5,4.5,4.0,4.25,4.3
+Neuropathic-related,arch1,4.333333333333333,4.0,4.0,4.0,4.333333333333333,4.133333333333333
+Neuropathic-related,arch2,4.0,4.0,4.0,4.0,3.6666666666666665,3.9333333333333336
+Neuropathic-related,arch3,4.0,3.6666666666666665,4.333333333333333,4.0,4.0,4.0

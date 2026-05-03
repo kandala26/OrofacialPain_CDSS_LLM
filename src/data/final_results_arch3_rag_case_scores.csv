@@ -1,0 +1,10 @@
+case_id,broad_case_group,exact_case_group,response_relevancy,context_utilization
+V1,Headache,Headache,0.4782322757606085,0.9317956349089874
+V10,Musculoskeletal/TMD,Muscular (Myogenous TMD),0.4353020701687196,0.8928571428348213
+V11,Musculoskeletal/TMD,Muscular (Myogenous TMD),0.4249970491046304,0.9067956349093
+V2,Headache,Headache,0.4807821044613825,0.9999999999888888
+V3,Musculoskeletal/TMD,TMD/TMJ,0.4404044936463808,0.8583333333161667
+V4,Musculoskeletal/TMD,TMD/TMJ,0.5852609815927636,0.9067956349093
+V5,Neuropathic-related,Mixed neuropathic + TMD,0.5137184573442193,0.8917233559963313
+V6,Neuropathic-related,Neuropathic,0.5091205687422923,0.8105158730023644
+V8,Neuropathic-related,Neuropathic + Musculoskeletal,0.4470186518813324,0.9526289682420604

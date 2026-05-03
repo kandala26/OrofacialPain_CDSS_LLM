@@ -1,0 +1,10 @@
+case_id,faithfulness,suggested_primary_label,broad_topic_group,difficulty,analysis_group,score_category
+V11,0.958904109589041,Myofascial pain with referral,Musculoskeletal / TMD,Easy,Musculoskeletal / TMD,High
+V4,0.9054054054054054,Masticatory/cervical myofascial pain; TMJ arthralgia; left TMJ disc displacement with reduction,Musculoskeletal / TMD,Hard,Musculoskeletal / TMD,High
+V2,0.8955223880597015,Cluster headache,Headache,Easy,Headache / Neurovascular,High
+V10,0.8421052631578947,Local myalgia with referral to teeth,Musculoskeletal / TMD,Easy,Musculoskeletal / TMD,High
+V3,0.7945205479452054,Masticatory/cervical myofascial pain; TMJ arthralgia; bilateral TMJ disc displacement with reduction,Musculoskeletal / TMD,Hard,Musculoskeletal / TMD,Moderate
+V1,0.5079365079365079,Migraine,Headache,Easy,Headache / Neurovascular,Moderate
+V5,0.0,Post-procedural trigeminal neuropathy with TMD features,Neuropathic,Hard,Neuropathic,Zero
+V6,0.0,Post-procedural trigeminal neuropathy,Neuropathic,Easy,Neuropathic,Zero
+V8,0.0,Post-procedural trigeminal neuropathy,Neuropathic,Hard,Neuropathic,Zero

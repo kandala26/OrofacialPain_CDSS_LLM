@@ -1,0 +1,19 @@
+exact_case_group,architecture,primary_diagnosis_accuracy,differential_diagnosis_quality,clinical_reasoning_quality,guideline_adherence,overall_clinical_usefulness,mean_score
+Headache,arch1,2.5,4.0,4.0,3.5,3.5,3.5
+Headache,arch2,4.5,5.0,4.0,4.0,4.0,4.300000000000001
+Headache,arch3,4.5,4.0,4.5,4.0,4.0,4.199999999999999
+Mixed neuropathic + TMD,arch1,5.0,4.0,5.0,5.0,5.0,4.8
+Mixed neuropathic + TMD,arch2,4.0,4.0,4.0,4.0,4.0,4.0
+Mixed neuropathic + TMD,arch3,4.0,4.0,5.0,4.0,4.0,4.2
+Muscular (Myogenous TMD),arch1,4.5,4.5,4.5,4.5,4.0,4.4
+Muscular (Myogenous TMD),arch2,4.5,4.0,4.0,3.5,3.5,3.9000000000000004
+Muscular (Myogenous TMD),arch3,5.0,4.5,4.5,4.5,4.5,4.6
+Neuropathic,arch1,5.0,5.0,4.0,4.0,5.0,4.6
+Neuropathic,arch2,4.0,4.0,4.0,4.0,4.0,4.0
+Neuropathic,arch3,4.0,3.0,4.0,4.0,4.0,3.8
+Neuropathic + Musculoskeletal,arch1,3.0,3.0,3.0,3.0,3.0,3.0
+Neuropathic + Musculoskeletal,arch2,4.0,4.0,4.0,4.0,3.0,3.8
+Neuropathic + Musculoskeletal,arch3,4.0,4.0,4.0,4.0,4.0,4.0
+TMD/TMJ,arch1,4.5,4.5,4.5,4.5,4.5,4.5
+TMD/TMJ,arch2,4.0,4.5,4.5,4.0,4.0,4.2
+TMD/TMJ,arch3,3.5,4.5,4.5,3.5,4.0,4.0

@@ -1,0 +1,29 @@
+## 1. Primary diagnosis
+**Migraine without aura (episodic), with referred pain to the right temple/preauricular/upper jaw region (orofacial migraine phenotype).**
+
+---
+
+## 2. Differential diagnoses
+1. **Headache attributed to temporomandibular disorder (TMD myalgia/arthralgia)**  
+   - Less likely given normal mandibular range, no pain with function, no joint tenderness/loading pain, and no familiar pain reproduction on palpation.
+2. **Tension-type headache (episodic) with pericranial tenderness**  
+   - Consider due to stress/sleep issues and mild temporalis/occipital tenderness, but the attacks are strongly migrainous (throbbing, nausea, photo/phonophobia, 6–24 h, light trigger).
+3. **Trigeminal autonomic cephalalgias (e.g., cluster headache)**  
+   - Less likely: duration and frequency could overlap, but there are no cranial autonomic features (tearing, nasal congestion, ptosis) and the phenotype is migrainous rather than “restless/agitated” severe orbital pain.
+4. **Trigeminal neuralgia / painful trigeminal neuropathy**  
+   - Unlikely: pain is not brief/electric/shock-like, no trigger zones, and episodes last hours.
+5. **Odontogenic pain / sinus-related pain**  
+   - Unlikely: normal panoramic radiograph, no dental/sinus symptom pattern provided, and symptoms track tightly with migraine-associated features.
+6. **Cervicogenic headache**  
+   - Less likely: normal cervical ROM, no clear neck-provoked pattern, and prominent migraine-associated symptoms.
+7. **Medication-overuse headache**  
+   - Currently unlikely based on “ibuprofen as needed” without evidence of frequent use; reassess if analgesic use is >10–15 days/month.
+
+---
+
+## 3. Clinical reasoning
+- **Phenotype matches migraine:** Episodic attacks lasting **6–24 hours**, **throbbing/pulsating** quality, **moderate–severe intensity (8/10)**, and classic associated symptoms (**nausea, photophobia, phonophobia**) with common migraine triggers (**stress, sleep deprivation, bright light**) and relief with **rest in a dark room**.
+- **Anatomic distribution is compatible with migraine referral:** Migraine pain can present in **temple, preauricular, and maxillary/upper jaw regions** due to trigeminovascular activation and convergence within trigeminal pathways, producing “orofacial” expression during headache attacks.
+- **Temporal relationship supports primary headache over TMD:** The **facial/jaw-region pain occurs during headache episodes**, suggesting it is part of the migraine attack rather than an independent masticatory disorder.
+- **TMD findings are minimal and non-reproducing:** Normal opening, no pain with jaw movement, no joint sounds/locking, no TMJ tenderness or loading pain, and palpation tenderness is **mild (1/3)** without **familiar pain reproduction**—all arguing against primary TMD myalgia/arthralgia as the main driver.
+- **Contributing factors likely present but secondary:** Daytime clenching, stress, and poor sleep may contribute to mild masticatory muscle tenderness and could **lower the migraine threshold**, but the overall clinical picture remains most consistent with **episodic migraine without aura** rather than a primary temporomandibular disorder.

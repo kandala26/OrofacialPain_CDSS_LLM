@@ -1,0 +1,1240 @@
+case_id,question_vignette,question_retrieval,contexts,answer,json_file
+V1,"# Case ID
+- ID: V1
+- Age: 43
+- Sex: Male
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Dull aching throbbing deep pain in the left uuper molar region.
+
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: Left maxillary molar region 
+- Side: Left
+- Onset and duration: Present for 8 years. Pain began 1 year after maxillary orthognathic surgery. Each episode lasts between 2 hours to 5 days
+- Pain quality: Dull, aching, throbbing deep pain
+- Intensity: 7–8/10 during attacks
+- Temporal pattern: Intermittent episodic attacks over 8 years
+- Aggravating factors: No specific triggering factors identified; pain worsened with activity
+- Relieving factors: Completely relieved with triptan medication during episodes
+- Associated symptoms: Nausea, vomiting, light sensitivity, sound sensitivity; episodes caused the patient to miss work and go to bed
+---
+
+
+# TMJ / Jaw History
+- Pain with jaw movement: No
+- Joint sounds: None reported
+- Locking history: No
+- Bite change: No
+- Parafunction: not reported
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: not reported
+- Morning jaw soreness: not reported
+- Stress level: not reported
+- Awareness of clenching or grinding: not reported
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: None reported
+- Neurologic history: None reported
+- Psychiatric history: not reported
+- Current medications: Not reported
+- Drug allergies: None reported
+- Recent dental treatment or trauma: Treated with four root canals, three extractions, occlusal splint, neck adjustments, massage therapy, and carbamazepine (Tegretol) without lasting relief
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening:None reported
+- Comfortable opening: Not reported
+- Pain with opening or lateral movement:None reported
+- Deviation on opening: None reported
+- Right lateral movement: Not reported
+- Left lateral movement: Not reported
+- Protrusion: Not reported
+- Overjet: Not reported
+- Overbite: Not reported
+
+## Muscle Palpation (0–3 scale) 
+
+- Masseter (R/L): 0 / 0
+- Temporalis (R/L): 0 / 0
+- Sternocleidomastoid (R/L): 0 / 0
+- Occipital region (R/L): 0/ 0
+- Trapezius (R/L): Not reported
+- Familiar pain reproduced: No
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 0 / 0
+- Pain with joint loading: No
+- Joint sounds: None
+
+## Dental / Oral Examination
+- Soft tissue findings: Not reported
+- Dentition status: Not reported 
+- Occlusion: stable
+- Signs of parafunction: not seen
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: Not reported
+- Cervical findings: Not reported
+
+---
+
+# Imaging (if available)
+- Type: Not reported
+- Key findings: Not reported
+
+---
+
+# Additional Notes
+No additional clinically relevant findings reported.","43-year-old man with intermittent episodic dull, aching, throbbing deep pain localized to the left maxillary molar/upper molar region for 8 years, beginning 1 year after maxillary orthognathic surgery. Attacks last 2 hours to 5 days and reach 7–8/10 intensity, with worsening during activity and no specific trigger identified. Episodes are associated with nausea, vomiting, photophobia, and phonophobia, severe enough to cause missed work and bed rest. Pain is completely relieved by triptan medication, and prior root canals, three extractions, occlusal splint, neck adjustments, massage therapy, and carbamazepine provided no lasting relief.","['for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', '\n\n# Diagnostic Criteria for Temporomandibular Disorders (DC/TMD)\n\nSource: Schiffman et al., 2014  \nDiagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications.\n\n---\n\n# Muscle Disorders\n\n## Myalgia (ICD-9 729.1; ICD-10 M79.1)*\n\n**Description**  \nPain of muscle origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the masticatory muscles.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, in the ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for both of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ in the temporalis or masseter muscle(s) with at least one of the following provocation tests:  \n   a. Palpation of the temporalis or masseter muscle(s); OR  \n   b. Maximum unassisted or assisted opening movement(s).\n\n**Validity**  \nSensitivity 0.90; Specificity 0.99\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n\n## Local myalgia (ICD-9 729.1; ICD-10 M79.1)\n\n**Description**  \nPain of muscle origin as described for myalgia with localization of pain only at the site of p', ' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', ' headache, and criterion B below  \n\nB. Occurring without a remission period, or with remissions lasting <3 months, for at least 1 year.\n\n---\n\n## Comment:\n\n3.1.2 Chronic cluster headache may arise de novo (previously referred to as primary chronic cluster headache), or evolve from 3.1.1 Episodic cluster headache (previously secondary chronic cluster headache). In some patients change occurs from 3.1.2 Chronic cluster headache to 3.1.1 Episodic cluster headache.\n\n\n## 3.2 Paroxysmal hemicrania\n\n### Description\nAttacks of severe, strictly unilateral pain in orbital, supraorbital, and/or temporal regions, lasting 2–30 minutes and occurring multiple times per day. Attacks are associated with ipsilateral cranial autonomic symptoms and respond absolutely to indomethacin.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–E  \nB. Severe unilateral orbital, supraorbital, and/or temporal pain lasting 2–30 minutes  \nC. Either or both of the following:\n   1. At least one of the following ipsilateral symptoms:\n      - Conjunctival injection and/or lacrimation  \n      - Nasal congestion and/or rhinorrhoea  \n      - Eyelid oedema  \n      - Forehead and facial sweating  \n      - Miosis and/or ptosis  \n   2. A sense of restlessness or agitation  \nD. Occurring with a frequency of >5 attacks per day  \nE. Prevented absolutely by therapeutic doses of indomethacin  \nF. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower durin', ' day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks fulfilling criteria B-D  \n\nB. Severe or very severe unilateral orbital, supraorbital and/or temporal pain lasting 15-180 minutes (when untreated)1  \n\nC. Either or both of the following:  \n\n1. at least one of the following symptoms or signs, ipsilateral to the headache:  \n   - conjunctival injection and/or lacrimation  \n   - nasal congestion and/or rhinorrhoea  \n   - eyelid oedema  \n   - forehead and facial sweating  \n   - miosis and/or ptosis  \n\n2. a sense of restlessness or agitation  \n\nD. Occurring with a frequency between one every other day and 8 per day2  \n\nE. Not better accounted for by another ICHD-3 diagnosis.\n\n---\n\n## Notes:\n\nDuring part, but less than half, of the active time-course of 3.1 Cluster headache, attacks may be less severe and/or of shorter or longer duration.  \n\nDuring part, but less than half, of the active time-course of 3.1 Cluster headache, attacks may be less frequent.\n\n---\n\n## Comments:\n\nAttacks occur in series lasting for weeks or months (so-called cluster periods or bouts) separated by remission periods usually lasting months or years. About 10-15% of patients have 3.1.2 Chronic cluster headache, without such remission periods. In a large series with good', 'tacks fulfilling criteria for 3.2 Paroxysmal hemicrania  \nB. Occurring for >1 year:\n   - Without remission, OR  \n   - With remission periods <3 months  \n\n---\n\n### Clinical Note\n- May co-occur with trigeminal neuralgia (CPH-tic syndrome)  \n- Both conditions must be treated when present  \n\n## 3.3 Short-lasting unilateral neuralgiform headache attacks\n\n### Description\nAttacks of moderate or severe, strictly unilateral head pain lasting seconds to minutes, occurring at least once daily. Pain is typically in orbital, supraorbital, temporal, or other trigeminal distributions and is usually associated with ipsilateral cranial autonomic symptoms, especially lacrimation and conjunctival injection.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–D  \nB. Moderate or severe unilateral head pain lasting 1–600 seconds  \n   - Occurs as single stabs, series of stabs, or saw-tooth pattern  \nC. At least one of the following ipsilateral autonomic symptoms:\n   - Conjunctival injection and/or lacrimation  \n   - Nasal congestion and/or rhinorrhoea  \n   - Eyelid oedema  \n   - Forehead and facial sweating  \n   - Forehead and facial flushing  \n   - Sensation of fullness in the ear  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n#', 'tion can change over time, with paroxysms becoming more prolonged. A minority of patients will report attacks predominantly lasting for >2 minutes.  \n3. Pain may become more severe over time.  \n4. Some attacks may be, or appear to be, spontaneous, but there must be a history or finding of pain provoked by innocuous stimuli to meet this criterion. Ideally, the examining clinician should attempt to confirm the history by replicating the triggering phenomenon. However, this may not always be possible because of the patient’s refusal, the awkward anatomical location of the trigger and/or other factors.  \n\n---\n\n### Comments\n\nOther than the triggering phenomenon, most patients with 4.1.1 Trigeminal neuralgia fail to show sensory abnormalities within the trigeminal territory unless advanced methods are used (e.g. quantitative sensory testing). However, in some patients, clinical neurological examination may show sensory deficits. These should prompt neuroimaging investigations to explore the possible cause. Diagnosis of subforms such as 4.1.1.1 Classical trigeminal neuralgia, 4.1.1.2 Secondary trigeminal neuralgia or 4.1.1.3 Idiopathic trigeminal neuralgia is then possible.\n\nWhen very severe, the pain often evokes contraction of the muscles of the face on the affected side (tic douloureux).\n\nMild autonomic symptoms such as lacrimation and/or redness of the ipsilateral eye may be present.\n\nFollowing a painful paroxysm, there is usually a refractory period during which pain cannot be ', '3 months and fulfilling criteria C and D  \n\nB. Both of the following:  \n1. history of a mechanical, thermal, radiation or chemical injury to the peripheral trigeminal nerve(s)  \n2. diagnostic test confirmation¹ of a lesion of the peripheral trigeminal nerve(s) explaining the pain²  \n\nC. Onset within 6 months after the injury³  \n\nD. Associated with somatosensory symptoms and/or signs⁴ in the same neuroanatomically plausible distribution  \n\nE. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Notes\n\n1. Tests that confirm a relevant lesion or disease affecting the trigeminal nerve may, for example, be surgical or radiological confirmation of nerve compression or lesion, nerve conduction study, laser-evoked potentials, blink reflex or skin biopsy confirmation of reduced nerve fibre terminals. Positive findings in these investigations may provide important diagnostic hints at the source of pain. However, all clinical and diagnostic aspects of the pain need to be considered.  \n\n2. The severity of nerve injuries may range from mild to severe. They include external trauma and iatrogenic injuries from dental treatments such as local anaesthetic injections, root canal therapies, extractions, oral surgery, dental implants, orthognathic surgery and other invasive procedures.  \n\n3. Specifically following radiation-induced postganglionic injury, neuropathic pain may appear after >3 months.  \n\n4. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypa', 'ies, extractions, oral surgery, dental implants, orthognathic surgery and other invasive procedures.  \n\n3. Specifically following radiation-induced postganglionic injury, neuropathic pain may appear after >3 months.  \n\n4. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia). Note that positive somatosensory signs are not specific to neuropathy. Negative or positive somatosensory signs consistent with the distribution of the pain may be sufficient to indicate the presence of a lesion of the trigeminal nerve. The clinical examination is supplemented by laboratory tests such as quantitative sensory testing.\n\n### Comments\n\nThe structure and content of the diagnostic criteria for 4.1.2.3 Post-traumatic trigeminal neuropathic pain deviate somewhat from those of 13.1.2.3 Painful post-traumatic trigeminal neuropathy in ICHD-3 in order to comply with IASP criteria.\n\nPain duration ranges widely from paroxysmal to constant, and may be mixed.\n\nThere may seem to be a partial overlap with 6.3.2 Persistent idiopathic dentoalveolar pain with somatosensory changes, but in this condition there may be no clear temporal relationship and the somatosensory changes may not be limited to a neuroanatomically confined area, in contrast to the criteria for 4.1.2.3 Post-traumatic trigeminal neuropathic pain.\n\nNeuroablative procedures for trigeminal neuralgia, aimed at the trigeminal ganglion or nerve root, may result i']","1) Primary diagnosis
+   - Migraine without aura
+
+2) Differential diagnoses
+   - Headache attributed to temporomandibular disorder
+   - Arthralgia
+   - Myalgia
+   - Post-traumatic trigeminal neuropathic pain
+   - Paroxysmal hemicrania
+
+3) Clinical reasoning
+   - **Migraine without aura**
+     - The vignette describes recurrent episodic attacks lasting 2 hours to 5 days, with severe pain intensity (7–8/10), nausea, vomiting, photophobia, phonophobia, worsening with activity, bed rest during attacks, and complete relief with triptan medication. This pattern is most consistent with migraine.
+     - Although the pain is felt in the left maxillary molar region rather than the temple, the overall attack phenotype is migrainous and better explains the episodic disabling pain than a temporomandibular disorder (TMD) or local dental cause based on the findings provided.
+     - The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone.
+
+   - **Headache attributed to temporomandibular disorder**
+     - Ranked second because the retrieved DC/TMD excerpt includes headache in the temple modified by jaw movement/function/parafunction and reproduced by temporalis provocation.
+     - This diagnosis is not supported here because the patient does not report temple headache, does not report pain modified by jaw movement, and temporalis palpation is 0/0 with no familiar pain reproduced.
+
+   - **Arthralgia**
+     - The DC/TMD criteria require pain in the jaw, temple, ear, or in front of ear that is modified by jaw movement/function/parafunction, plus familiar temporomandibular joint pain with TMJ provocation.
+     - This case does not support arthralgia: there is no pain with jaw movement, no TMJ tenderness on palpation (0/0), no pain with joint loading, no joint sounds, and no familiar pain reproduced.
+
+   - **Myalgia**
+     - The DC/TMD criteria require pain modified by jaw movement/function/parafunction and familiar pain reproduced in the temporalis or masseter on palpation or opening.
+     - This is unlikely because masseter and temporalis palpation scores are 0/0 bilaterally, there is no familiar pain reproduction, and there is no reported pain with jaw movement.
+
+   - **Post-traumatic trigeminal neuropathic pain**
+     - Considered because the pain began after maxillary orthognathic surgery, and the retrieved ICOP excerpt notes that invasive procedures can cause trigeminal nerve injury.
+     - However, the vignette does not report somatosensory symptoms or signs, does not provide diagnostic confirmation of trigeminal nerve lesion, and the pain quality is dull/aching/throbbing with migrainous associated symptoms and triptan response, which makes neuropathic pain less likely on the available evidence.
+
+   - **Paroxysmal hemicrania**
+     - Included because the retrieved ICHD-3 excerpt describes unilateral severe pain with associated symptoms.
+     - It is less likely because the attacks here last 2 hours to 5 days, whereas paroxysmal hemicrania requires attacks lasting 2–30 minutes and occurring multiple times per day, with absolute indomethacin response. Those features are not reported.
+
+4) Next steps
+   - Perform a focused headache history using ICHD-3-based migraine criteria to confirm attack frequency, consistency of laterality, aura history, and medication use.
+   - Refer to neurology or an orofacial pain clinician with headache expertise to confirm the primary headache diagnosis and guide migraine management.
+   - Perform a focused neurologic and cranial nerve examination to screen for secondary causes, especially given onset after orthognathic surgery.
+   - Avoid further irreversible dental treatment unless a clear odontogenic source is identified, since prior dental procedures did not provide lasting relief and current findings do not support temporomandibular disorder.
+   - Consider brain and/or facial imaging only if neurologic examination is abnormal, the headache pattern is atypical or changing, or postsurgical neuropathic pathology remains a concern after clinical reassessment.",V1_arch3_20260408_080240.json
+V2,"# Case ID
+- ID: V2  
+- Age: 48  
+- Sex: Male  
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)  
+
+---
+
+# Chief Complaint  
+Toothache.
+
+---
+
+# History of Present Illness  
+
+## Pain Characteristics  
+- Location: Right maxillary tooth region radiating to the orbital, temporal, and infratemporal areas  
+- Side: Right  
+- Onset and duration: Each episode lasted from minutes to a couple hours  
+- Pain quality: Aching  
+- Intensity: 8–9/10  
+- Temporal pattern: Intermittent attacks occurring 2–12 times per day  
+- Aggravating factors: Increased physical activity had no impact on pain  
+- Relieving factors: Pain was unaffected by ibuprofen or acetaminophen; sleeping had no impact on pain; pain was completely relieved with verapamil  
+- Associated symptoms: Right eye tearing, facial swelling, increased temperature  
+
+---
+
+# TMJ / Jaw History  
+- Pain with jaw movement: Not reported  
+- Joint sounds: Not reported  
+- Locking history: Not reported  
+- Bite change: Not reported  
+- Parafunction: Not reported  
+
+---
+
+# Sleep and Behavioral Factors  
+- Sleep quality: Sleeping had no impact on pain  
+- Morning jaw soreness: Not reported  
+- Stress level: Not reported  
+- Awareness of clenching or grinding: Not reported  
+
+---
+
+# Relevant Medical and Dental History  
+- Systemic conditions: No major medical diagnoses  
+- Neurologic history: Not reported  
+- Psychiatric history: Not reported  
+- Current medications: Not reported  
+- Drug allergies: Not reported  
+- Recent dental treatment or trauma: Not reported  
+
+---
+
+# Clinical Examination  
+
+## Mandibular Function  
+- Maximum opening: Not reported  
+- Comfortable opening: Not reported  
+- Pain with opening or lateral movement: Not reported  
+- Deviation on opening: Not reported  
+- Right lateral movement: Not reported  
+- Left lateral movement: Not reported  
+- Protrusion: Not reported  
+- Overjet: Not reported  
+- Overbite: Not reported  
+
+## Muscle Palpation (0–3 scale)  
+- Masseter (R/L): Not reported  
+- Temporalis (R/L): Not reported  
+- Sternocleidomastoid (R/L): Not reported  
+- Occipital region (R/L): Not reported  
+- Trapezius (R/L): Not reported  
+- Familiar pain reproduced: Not reported  
+
+## Joint Examination  
+- TMJ palpation tenderness (R/L): Not reported  
+- Pain with joint loading: Not reported  
+- Joint sounds: Not reported  
+
+## Dental / Oral Examination  
+- Soft tissue findings: Not reported  
+- Dentition status: Not reported  
+- Occlusion: Not reported  
+- Signs of parafunction: Not reported  
+
+## Cranial Nerve and Cervical Findings  
+- Cranial nerve exam: Not reported  
+- Cervical findings: Not reported  
+
+---
+
+# Imaging (if available)  
+- Type: Not reported  
+- Key findings: Not reported  
+
+---
+
+# Additional Notes  
+During attacks, the patient was unable to focus and had to pull off the road while driving.","Severe intermittent right-sided aching pain (8–9/10) involved the right maxillary tooth region with radiation to the orbital, temporal, and infratemporal areas. Attacks lasted from minutes to a couple of hours and occurred 2–12 times daily. Episodes were associated with right eye tearing, facial swelling, increased facial temperature, and inability to focus during attacks, including needing to pull off the road while driving. Pain was not relieved by ibuprofen or acetaminophen and was completely relieved with verapamil.","['for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', 'rmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.87\n\n**Comments**\n\nThe headache is not better accounted for by another headache diagnosis.\n\n**Note**\n\nA diagnosis of pain-related TMD (eg, myalgia or TMJ arthralgia) must be present and is established using valid diagnostic criteria.\n\n---\n### Footnotes\n\n* ICD-9: International Classification of Diseases 9th Revision; ICD-10: International Classification of Diseases 10th Revision.\n\n** The time frame for assessing pain including headache is in “the last 30 days” since the stated sensitivity and specificity of these criteria were established using this time frame. Although the specific time frame can be dependent on the context in which the pain complaint is being assessed, the validity of this diagnosis based on different time frames has not been established.\n\n† The examiner must identify with the patient all anatomical locations that they have experienced pain in the last 30 days. For a given diagnosis, the location of pain induced by the specified provocation test(s) must be in an anatomical structure consistent with that diagnosis.\n\n‡ “Familiar pain” or “familiar headache” is based on patient report that th', ' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', ' day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks fulfilling criteria B-D  \n\nB. Severe or very severe unilateral orbital, supraorbital and/or temporal pain lasting 15-180 minutes (when untreated)1  \n\nC. Either or both of the following:  \n\n1. at least one of the following symptoms or signs, ipsilateral to the headache:  \n   - conjunctival injection and/or lacrimation  \n   - nasal congestion and/or rhinorrhoea  \n   - eyelid oedema  \n   - forehead and facial sweating  \n   - miosis and/or ptosis  \n\n2. a sense of restlessness or agitation  \n\nD. Occurring with a frequency between one every other day and 8 per day2  \n\nE. Not better accounted for by another ICHD-3 diagnosis.\n\n---\n\n## Notes:\n\nDuring part, but less than half, of the active time-course of 3.1 Cluster headache, attacks may be less severe and/or of shorter or longer duration.  \n\nDuring part, but less than half, of the active time-course of 3.1 Cluster headache, attacks may be less frequent.\n\n---\n\n## Comments:\n\nAttacks occur in series lasting for weeks or months (so-called cluster periods or bouts) separated by remission periods usually lasting months or years. About 10-15% of patients have 3.1.2 Chronic cluster headache, without such remission periods. In a large series with good', 'tacks fulfilling criteria for 3.2 Paroxysmal hemicrania  \nB. Occurring for >1 year:\n   - Without remission, OR  \n   - With remission periods <3 months  \n\n---\n\n### Clinical Note\n- May co-occur with trigeminal neuralgia (CPH-tic syndrome)  \n- Both conditions must be treated when present  \n\n## 3.3 Short-lasting unilateral neuralgiform headache attacks\n\n### Description\nAttacks of moderate or severe, strictly unilateral head pain lasting seconds to minutes, occurring at least once daily. Pain is typically in orbital, supraorbital, temporal, or other trigeminal distributions and is usually associated with ipsilateral cranial autonomic symptoms, especially lacrimation and conjunctival injection.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–D  \nB. Moderate or severe unilateral head pain lasting 1–600 seconds  \n   - Occurs as single stabs, series of stabs, or saw-tooth pattern  \nC. At least one of the following ipsilateral autonomic symptoms:\n   - Conjunctival injection and/or lacrimation  \n   - Nasal congestion and/or rhinorrhoea  \n   - Eyelid oedema  \n   - Forehead and facial sweating  \n   - Forehead and facial flushing  \n   - Sensation of fullness in the ear  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n#', ' headache, and criterion B below  \n\nB. Occurring without a remission period, or with remissions lasting <3 months, for at least 1 year.\n\n---\n\n## Comment:\n\n3.1.2 Chronic cluster headache may arise de novo (previously referred to as primary chronic cluster headache), or evolve from 3.1.1 Episodic cluster headache (previously secondary chronic cluster headache). In some patients change occurs from 3.1.2 Chronic cluster headache to 3.1.1 Episodic cluster headache.\n\n\n## 3.2 Paroxysmal hemicrania\n\n### Description\nAttacks of severe, strictly unilateral pain in orbital, supraorbital, and/or temporal regions, lasting 2–30 minutes and occurring multiple times per day. Attacks are associated with ipsilateral cranial autonomic symptoms and respond absolutely to indomethacin.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–E  \nB. Severe unilateral orbital, supraorbital, and/or temporal pain lasting 2–30 minutes  \nC. Either or both of the following:\n   1. At least one of the following ipsilateral symptoms:\n      - Conjunctival injection and/or lacrimation  \n      - Nasal congestion and/or rhinorrhoea  \n      - Eyelid oedema  \n      - Forehead and facial sweating  \n      - Miosis and/or ptosis  \n   2. A sense of restlessness or agitation  \nD. Occurring with a frequency of >5 attacks per day  \nE. Prevented absolutely by therapeutic doses of indomethacin  \nF. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower durin', 'tion can change over time, with paroxysms becoming more prolonged. A minority of patients will report attacks predominantly lasting for >2 minutes.  \n3. Pain may become more severe over time.  \n4. Some attacks may be, or appear to be, spontaneous, but there must be a history or finding of pain provoked by innocuous stimuli to meet this criterion. Ideally, the examining clinician should attempt to confirm the history by replicating the triggering phenomenon. However, this may not always be possible because of the patient’s refusal, the awkward anatomical location of the trigger and/or other factors.  \n\n---\n\n### Comments\n\nOther than the triggering phenomenon, most patients with 4.1.1 Trigeminal neuralgia fail to show sensory abnormalities within the trigeminal territory unless advanced methods are used (e.g. quantitative sensory testing). However, in some patients, clinical neurological examination may show sensory deficits. These should prompt neuroimaging investigations to explore the possible cause. Diagnosis of subforms such as 4.1.1.1 Classical trigeminal neuralgia, 4.1.1.2 Secondary trigeminal neuralgia or 4.1.1.3 Idiopathic trigeminal neuralgia is then possible.\n\nWhen very severe, the pain often evokes contraction of the muscles of the face on the affected side (tic douloureux).\n\nMild autonomic symptoms such as lacrimation and/or redness of the ipsilateral eye may be present.\n\nFollowing a painful paroxysm, there is usually a refractory period during which pain cannot be ', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', 'ere, the pain often evokes contraction of the muscles of the face on the affected side (tic douloureux).\n\nMild autonomic symptoms such as lacrimation and/or redness of the ipsilateral eye may be present.\n\nFollowing a painful paroxysm, there is usually a refractory period during which pain cannot be triggered.\n\n---\n\n## 4.1.1.1 Classical trigeminal neuralgia\n\n**Previously used term:** Primary trigeminal neuralgia.\n\n### Description\nTrigeminal neuralgia developing without apparent cause other than neurovascular compression.\n\n---\n\n### Diagnostic criteria\n\nA. Recurrent paroxysms of unilateral pain fulfilling criteria for 4.1.1 Trigeminal neuralgia  \n\nB. Demonstration on magnetic resonance imaging (MRI) or during surgery of neurovascular compression (not simply contact), with morphological changes in the trigeminal nerve root  \n\n---\n\n### Note\n1. Typically atrophy or displacement.\n\n---\n\n### Comments\n\nNerve root atrophy and/or displacement due to neurovascular compression are independently associated with signs and symptoms of 4.1.1 Trigeminal neuralgia. When these anatomical changes are present, the condition is diagnosed as 4.1.1.1 Classical trigeminal neuralgia.\n\nThe common site of compression is at the root entry zone, with compression by an artery more clearly associated with symptoms than compression by a vein. MRI techniques to measure volume and the cross-sectional area of the root are available. Atrophic changes may include demyelination, neuronal loss, changes in microvascul']","1) Primary diagnosis
+   - Cluster headache
+
+2) Differential diagnoses
+   - Paroxysmal hemicrania
+   - Short-lasting unilateral neuralgiform headache attacks
+   - Temporomandibular disorder-related pain
+   - Trigeminal neuralgia
+   - Persistent idiopathic orofacial pain
+
+3) Clinical reasoning
+   - **Cluster headache** is the best fit for the vignette. The patient has severe unilateral right-sided pain radiating to the orbital and temporal areas, with attacks lasting from minutes to a couple of hours and occurring 2–12 times per day. The attacks are associated with ipsilateral autonomic features: right eye tearing and facial swelling/increased temperature. The retrieved International Classification of Headache Disorders, 3rd edition (ICHD-3) excerpt for cluster headache supports severe unilateral orbital, supraorbital, and/or temporal pain lasting 15–180 minutes, associated with ipsilateral autonomic symptoms and occurring from one every other day up to 8 per day. Although this patient’s reported frequency sometimes reaches 12 per day, the overall pattern of unilateral severe orbital/temporal pain with autonomic symptoms strongly favors cluster headache over the alternatives. The additional note that he had to stop driving during attacks is also consistent with a severe trigeminal autonomic cephalalgia-type pain state.
+   - **Why this is not primarily a temporomandibular disorder (TMD):** The retrieved Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) criteria for temporomandibular joint (TMJ) arthralgia and myalgia require pain modified by jaw movement, function, or parafunction, plus familiar pain reproduced by palpation or jaw provocation. None of these required findings are reported. There is no reported pain with jaw movement, no muscle or TMJ palpation findings, and no familiar pain reproduction on examination. Therefore, the vignette does not support a primary pain-related TMD diagnosis.
+   - **Paroxysmal hemicrania** is ranked second because the vignette also shows unilateral severe orbital/temporal-region pain with autonomic features and frequent daily attacks, which matches the ICHD-3 pattern in part. However, the attacks here last up to a couple of hours, whereas the retrieved criteria describe 2–30 minute attacks. These features make paroxysmal hemicrania less likely than cluster headache.
+   - **Short-lasting unilateral neuralgiform headache attacks** are considered because of unilateral pain with autonomic symptoms such as tearing. However, the retrieved ICHD-3 criteria describe attacks lasting 1–600 seconds, whereas this patient’s attacks last minutes to a couple of hours. The pain quality is aching rather than brief stabbing neuralgiform pain, so this is less likely.
+   - **Temporomandibular disorder-related pain** is less likely because the vignette lacks the core DC/TMD features: no pain modified by jaw movement, function, or parafunction; no confirmation of temporomandibular joint (TMJ) or masticatory muscle pain on examination; and no familiar pain reproduced by palpation or jaw movement. The tooth/maxillary pain location could mimic TMD in some cases, but the autonomic symptoms and attack pattern are not typical of the retrieved TMD criteria.
+   - **Trigeminal neuralgia** is possible because facial pain can radiate in trigeminal distributions. However, the retrieved ICHD-3 content emphasizes recurrent paroxysms typically triggered by innocuous stimuli and usually brief, often electric shock-like pain. This patient’s pain is described as aching, lasts much longer, and has prominent autonomic symptoms, making trigeminal neuralgia less likely.
+   - **Persistent idiopathic orofacial pain** is least likely among the listed differentials because the retrieved International Classification of Orofacial Pain (ICOP) excerpt describes persistent, usually poorly localized pain, whereas this patient has discrete severe attacks with cranial autonomic symptoms. That pattern is much more consistent with a trigeminal autonomic cephalalgia than idiopathic orofacial pain.
+
+4) Next steps
+   - Perform an urgent focused headache and neurologic evaluation, including cranial nerve examination, to assess for trigeminal autonomic cephalalgia and exclude secondary causes of unilateral autonomic headache.
+   - Refer to neurology or a headache specialist for confirmation of cluster headache and subtype classification, given the severe attacks and functional impairment while driving.
+   - Obtain magnetic resonance imaging (MRI) of the brain with attention to the sellar/cavernous sinus region if not already done, to exclude secondary causes of cluster-like headache.
+   - Keep a detailed attack diary documenting duration, daily frequency, laterality, autonomic symptoms, and triggers to distinguish cluster headache from paroxysmal hemicrania and other trigeminal autonomic cephalalgias.
+   - Perform a targeted dental and temporomandibular disorder examination only to rule out odontogenic pain and pain-related temporomandibular disorder, since the current vignette does not provide evidence supporting those diagnoses.",V2_arch3_20260411_112100.json
+V3,"# Case ID
+- ID: V3
+- Age: Not reported
+- Sex: Not reported
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Jaw pain and popping.
+
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: Bilateral Masseter muscles, temporomandibular joints, temporalis muscles, neck 
+- Side: Bilateral (neck L > R)
+- Onset and duration: 2 years
+- Pain quality: Dull
+- Intensity: 5/10
+- Temporal pattern: Constant
+- Aggravating factors: Chewing, clenching
+- Relieving factors: Rest, ibuprofen
+- Associated symptoms: Migraine
+
+---
+
+# TMJ / Jaw History
+- Pain with jaw movement: Present during mandibular provocation tests
+- Joint sounds: Bilateral TMJ sounds (clicking)
+- Locking history: History of jaw locking
+- Bite change: Bite problems reported
+- Parafunction: Sleep bruxism and awake bruxism
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: Rested
+- Morning jaw soreness: Not reported
+- Stress level: Anxiety and depression reported
+- Awareness of clenching or grinding: Sleep and awake bruxism
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: Not reported
+- Neurologic history: Migraine
+- Psychiatric history: Anxiety, depression
+- Current medications: Qulipta
+- Drug allergies: NKDA
+- Recent dental treatment or trauma: Pain reported after prior RCT and splint therapy
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening: 52 mm
+- Comfortable opening: 33 mm
+- Pain with opening or lateral movement: Positive mandibular provocation tests such
+- Deviation on opening: Not reported
+- Right lateral movement: 9 mm
+- Left lateral movement: 9 mm
+- Protrusion: 3 mm
+- Overjet: 3 mm
+- Overbite: 2 mm
+
+## Muscle Palpation (0–3 scale)
+
+- Masseter (R/L): 3 / 3
+- Temporalis (R/L): 2 / 2
+- Sternocleidomastoid (R/L): 2 / 3
+- Occipital region (R/L): 2 / 2
+- Trapezius (R/L): 1 / 0
+- Familiar pain reproduced: Yes
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 1 / 2
+- Pain with joint loading: None
+- Joint sounds: Opening Bilateral TMJ clicks
+
+## Dental / Oral Examination
+- Soft tissue findings: Linea alba, scalloped tongue, maxillary tori
+- Dentition status: Not specifically reported
+- Occlusion: Stable
+- Signs of parafunction: Bruxism (sleep and awake)
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: Within normal limits
+- Cervical findings: Cervical range of motion within functional limits (rotation 70°, lateral tilt 60°)
+
+---
+
+# Imaging (if available)
+- Type: Panoramic radiograph
+- Key findings: Condyles seated in fossae; no obvious dental or bony pathology
+
+---
+
+# Additional Notes
+Mandibular provocation tests reproduced pain during resisted movements including protrusion and lateral movements.","Two-year history of constant dull bilateral jaw pain (5/10) involving the masseters, temporalis muscles, temporomandibular joints, and neck (left greater than right), worsened by chewing and clenching and relieved by rest and ibuprofen, with associated migraine. Pain is provoked by jaw movement and resisted mandibular movements including protrusion and lateral excursion, with bilateral TMJ clicking, history of jaw locking, and reported bite changes. Examination reproduced familiar pain with marked bilateral masseter tenderness, bilateral temporalis tenderness, sternocleidomastoid tenderness (left greater than right), bilateral occipital tenderness, mild right trapezius tenderness, and bilateral TMJ palpation tenderness (left greater than right). Sleep and awake bruxism are present, with anxiety and depression, and pain was reported after prior root canal treatment and splint therapy.","[' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', 'for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', '\n\n# Diagnostic Criteria for Temporomandibular Disorders (DC/TMD)\n\nSource: Schiffman et al., 2014  \nDiagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications.\n\n---\n\n# Muscle Disorders\n\n## Myalgia (ICD-9 729.1; ICD-10 M79.1)*\n\n**Description**  \nPain of muscle origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the masticatory muscles.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, in the ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for both of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ in the temporalis or masseter muscle(s) with at least one of the following provocation tests:  \n   a. Palpation of the temporalis or masseter muscle(s); OR  \n   b. Maximum unassisted or assisted opening movement(s).\n\n**Validity**  \nSensitivity 0.90; Specificity 0.99\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n\n## Local myalgia (ICD-9 729.1; ICD-10 M79.1)\n\n**Description**  \nPain of muscle origin as described for myalgia with localization of pain only at the site of p', '(TACs) share the clinical features of unilateral headache and, usually, prominent cranial parasympathetic autonomic features, which are lateralized and ipsilateral to the headache. Experimental and human functional imaging suggests these syndromes activate a normal human trigeminal-parasympathetic reflex, with the clinical signs of cranial sympathetic dysfunction being secondary.\n\nTypical migraine aura can be seen, rarely, in association with TACs.\n\n---\n\n# 3.1 Cluster headache\n\n## Previously used terms:\nCiliary neuralgia; erythromelalgia of the head; erythroprosopalgia of Bing; hemicrania angioparalytica; hemicrania neuralgiformis chronica; histaminic cephalalgia; Horton’s headache; Harris-Horton’s disease; migrainous neuralgia (of Harris); petrosal neuralgia (of Gardner); Sluder’s neuralgia; sphenopalatine neuralgia; vidian neuralgia.\n\n---\n\n## Coded elsewhere:\nSymptomatic cluster headache, secondary to another disorder, is coded as a secondary headache attributed to that disorder.\n\n---\n\n## Description:\nAttacks of severe, strictly unilateral pain which is orbital, supraorbital, temporal or in any combination of these sites, lasting 15-180 minutes and occurring from once every other day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks ful', 'iagnosis  \n\n---\n\n### Notes\n- Indomethacin dosing:\n  - Oral: ≥150 mg/day (up to 225 mg/day)  \n  - Injection: 100–200 mg  \n- Migrainous features (photophobia, phonophobia) may be present  \n\n---\n\n### Clinical Features\n- Continuous (not episodic) pain  \n- Unilateral with superimposed exacerbations  \n- Absolute indomethacin response (shared with paroxysmal hemicrania)  \n\n---\n\n## 3.5 Probable trigeminal autonomic cephalalgia\n\n### Description\nHeadache attacks that resemble a TAC but are missing one required diagnostic criterion for a specific TAC subtype.\n\n---\n\n### Diagnostic Criteria\nA. Attacks fulfilling all but one of the criteria for:\n   - 3.1 Cluster headache OR  \n   - 3.2 Paroxysmal hemicrania OR  \n   - 3.3 Short-lasting unilateral neuralgiform headache attacks OR  \n   - 3.4 Hemicrania continua  \nB. Do not meet full criteria for any other headache disorder  \nC. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Clinical Notes\n- Used when presentation is incomplete or early  \n- May evolve into a definitive TAC diagnosis over time  ', 'tacks fulfilling criteria for 3.2 Paroxysmal hemicrania  \nB. Occurring for >1 year:\n   - Without remission, OR  \n   - With remission periods <3 months  \n\n---\n\n### Clinical Note\n- May co-occur with trigeminal neuralgia (CPH-tic syndrome)  \n- Both conditions must be treated when present  \n\n## 3.3 Short-lasting unilateral neuralgiform headache attacks\n\n### Description\nAttacks of moderate or severe, strictly unilateral head pain lasting seconds to minutes, occurring at least once daily. Pain is typically in orbital, supraorbital, temporal, or other trigeminal distributions and is usually associated with ipsilateral cranial autonomic symptoms, especially lacrimation and conjunctival injection.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–D  \nB. Moderate or severe unilateral head pain lasting 1–600 seconds  \n   - Occurs as single stabs, series of stabs, or saw-tooth pattern  \nC. At least one of the following ipsilateral autonomic symptoms:\n   - Conjunctival injection and/or lacrimation  \n   - Nasal congestion and/or rhinorrhoea  \n   - Eyelid oedema  \n   - Forehead and facial sweating  \n   - Forehead and facial flushing  \n   - Sensation of fullness in the ear  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n#', 'tion can change over time, with paroxysms becoming more prolonged. A minority of patients will report attacks predominantly lasting for >2 minutes.  \n3. Pain may become more severe over time.  \n4. Some attacks may be, or appear to be, spontaneous, but there must be a history or finding of pain provoked by innocuous stimuli to meet this criterion. Ideally, the examining clinician should attempt to confirm the history by replicating the triggering phenomenon. However, this may not always be possible because of the patient’s refusal, the awkward anatomical location of the trigger and/or other factors.  \n\n---\n\n### Comments\n\nOther than the triggering phenomenon, most patients with 4.1.1 Trigeminal neuralgia fail to show sensory abnormalities within the trigeminal territory unless advanced methods are used (e.g. quantitative sensory testing). However, in some patients, clinical neurological examination may show sensory deficits. These should prompt neuroimaging investigations to explore the possible cause. Diagnosis of subforms such as 4.1.1.1 Classical trigeminal neuralgia, 4.1.1.2 Secondary trigeminal neuralgia or 4.1.1.3 Idiopathic trigeminal neuralgia is then possible.\n\nWhen very severe, the pain often evokes contraction of the muscles of the face on the affected side (tic douloureux).\n\nMild autonomic symptoms such as lacrimation and/or redness of the ipsilateral eye may be present.\n\nFollowing a painful paroxysm, there is usually a refractory period during which pain cannot be ', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', 'ause of 4.1.1.2 Secondary trigeminal neuralgia. Other investigations may include neurophysiological recording of trigeminal reflexes and trigeminal evoked potentials, suitable for patients who cannot undergo MRI.  \n\n2. Recognized causes are tumour in the cerebellopontine angle, arteriovenous malformation and multiple sclerosis.\n\n## 4.1.1.2.1 Trigeminal neuralgia attributed to multiple sclerosis\n\n### Description\nTrigeminal neuralgia caused by a multiple sclerosis (MS) plaque or plaques in the pons or trigeminal root entry zone, and associated with other symptoms and/or clinical or laboratory findings of MS.\n\n### Diagnostic criteria\n\nA. Recurrent paroxysms of unilateral facial pain fulfilling criteria for 4.1.1 Trigeminal neuralgia  \n\nB. Both of the following:  \n1. multiple sclerosis (MS) has been diagnosed  \n2. an MS plaque at the trigeminal root entry zone or in the pons affecting the intrapontine primary afferents has been demonstrated by MRI, or its presence is suggested by routine electrophysiological studies¹ showing impairment of the trigeminal pathways  \n\nC. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Blink reflex or trigeminal evoked potentials.\n\n### Comments\n\n4.1.1.2.1 Trigeminal neuralgia attributed to multiple sclerosis occurs in 2–5% of patients with MS, sometimes bilaterally. Conversely, MS is detected in only 2–4% of cases of 4.1.1 Trigeminal neuralgia. Symptoms of trigeminal neuralgia are rarely a presenting feature of MS.\n\nThe le']","1) Primary diagnosis
+   - Myofascial pain with referral
+   - Arthralgia
+
+2) Differential diagnoses
+   - Local myalgia
+   - Headache attributed to temporomandibular disorder
+   - Disc displacement with reduction
+   - Disc displacement with reduction with intermittent locking
+   - Cervical myofascial pain
+
+3) Clinical reasoning
+   - **Myofascial pain with referral**
+     - The vignette supports a muscle pain disorder under the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD).
+     - History findings present:
+       - Pain in the jaw/temple region is reported.
+       - Pain is modified by jaw function/parafunction: aggravated by chewing and clenching, and pain is reproduced during mandibular provocation tests.
+     - Examination findings present:
+       - Familiar pain was reproduced on muscle palpation.
+       - Pain locations include bilateral masseter and temporalis muscles.
+       - Masseter palpation scores are 3/3, which indicates pain with referral bilaterally.
+       - Temporalis palpation scores are 2/2, indicating pain bilaterally without referral.
+     - The DC/TMD excerpt for myofascial pain with referral requires familiar pain in temporalis or masseter with pain beyond the boundary of the palpated muscle. The bilateral masseter score of 3 supports pain beyond the palpated muscle boundary. This is more specific than broader myalgia or local myalgia, so it is the best muscle diagnosis supported by the vignette.
+
+   - **Arthralgia**
+     - The vignette supports a temporomandibular joint (TMJ) pain disorder under DC/TMD.
+     - History findings present:
+       - Pain is located in the TMJ region bilaterally.
+       - Pain is modified by jaw movement/function/parafunction, including chewing, clenching, and mandibular provocation tests.
+     - Examination findings present:
+       - TMJ palpation tenderness/pain scores are 1 on the right and 2 on the left.
+       - Pain with jaw movement is present during mandibular provocation tests.
+     - DC/TMD arthralgia requires familiar pain in the TMJ area with palpation or jaw movement provocation. The vignette supports bilateral TMJ pain, more pronounced on the left. Absence of pain with joint loading does not exclude arthralgia based on the provided criteria.
+
+   - **Why both primary diagnoses are needed**
+     - The case has independent evidence of both masticatory muscle pain and TMJ pain.
+     - Muscle findings alone do not fully explain the TMJ palpation pain, and TMJ arthralgia alone does not explain the strong bilateral masseter and temporalis palpation pain with referral.
+
+   - **Differential diagnosis: Local myalgia**
+     - This is less likely than myofascial pain with referral because the masseter palpation scores are 3/3, indicating pain beyond the palpated muscle boundary. That finding supports the more specific diagnosis of myofascial pain with referral rather than local myalgia.
+
+   - **Differential diagnosis: Headache attributed to temporomandibular disorder**
+     - The vignette reports migraine and pain in the temporalis muscles, with pain modified by jaw function and familiar pain on palpation.
+     - However, the retrieved DC/TMD criteria for headache attributed to temporomandibular disorder require headache in the temple that is modified by jaw function and reproduced in the temple area with temporalis palpation or jaw movement.
+     - The vignette states “migraine” but does not explicitly state temple headache or that the familiar headache itself was reproduced by temporalis palpation or mandibular provocation. Therefore, this remains possible but not confirmed.
+
+   - **Differential diagnosis: Disc displacement with reduction**
+     - Bilateral TMJ clicking supports an intra-articular disc displacement with reduction pattern.
+     - However, the retrieved corpus provided no diagnostic criteria excerpt for disc displacement disorders. The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone.
+     - It is ranked below the pain diagnoses because clicking is present, but the chief pain complaint is better explained by the confirmed muscle and joint pain disorders.
+
+   - **Differential diagnosis: Disc displacement with reduction with intermittent locking**
+     - Bilateral clicking plus a history of jaw locking raises this possibility.
+     - However, there is no current limitation in maximum opening; maximum opening is 52 mm.
+     - The locking history is not characterized in enough detail to confirm intermittent locking. The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone.
+
+   - **Differential diagnosis: Cervical myofascial pain**
+     - Neck pain is reported, left greater than right, and sternocleidomastoid palpation scores are 2/3 with occipital tenderness 2/2.
+     - This may contribute to the overall pain presentation.
+     - It is ranked lower because the chief complaint and the strongest guideline-supported findings are centered on masticatory muscles and TMJs. Also, the DC/TMD excerpts provided primarily validate temporalis and masseter findings for formal TMD muscle diagnosis.
+
+4) Next steps
+   - Perform a focused DC/TMD confirmation exam to document whether familiar pain is reproduced separately from bilateral temporalis, masseter, and each temporomandibular joint (TMJ) with standardized palpation and mandibular movements.
+   - Clarify the locking history with a structured history and exam: whether locking was open or closed lock, duration, frequency, and whether clicking is reciprocal, to help confirm or refute disc displacement.
+   - If locking is recurrent, bite change persists, or intra-articular disorder needs confirmation, consider temporomandibular joint (TMJ) magnetic resonance imaging (MRI) for disc position and joint soft tissues.
+   - Begin conservative management while confirming diagnosis: patient education, soft diet as needed, avoidance of clenching/parafunction, jaw relaxation, and self-management strategies before any irreversible treatment.
+   - Coordinate with the patient’s physician or headache specialist if the headache history suggests overlap between migraine and temporomandibular disorder-related headache, to distinguish comorbid migraine from headache attributed to temporomandibular disorder.",V3_arch3_20260408_075347.json
+V4,"# Case ID
+- ID: V4
+- Age: Not reported
+- Sex: Not reported
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Bilateral face and jaw pain.
+
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: Masseter muscles, temporomandibular joints, and neck
+- Side: Bilateral
+- Onset and duration: Present for many years, worsened approximately 8 years ago
+- Pain quality: Dull and achy with sharp pain during mouth opening
+- Intensity: 8/10
+- Temporal pattern: Constant
+- Aggravating factors: Chewing
+- Relieving factors: None reported
+- Associated symptoms: Migraine
+
+---
+
+# TMJ / Jaw History
+- Pain with jaw movement: Yes
+- Joint sounds: Left TMJ on opening
+- Locking history: History of jaw lock 
+- Bite change: Dentures present
+- Parafunction: Not sure
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: Poor sleep
+- Morning jaw soreness: Not reported
+- Stress level: Psychosocial stressors present
+- Awareness of clenching or grinding: Not reported
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: Not reported
+- Neurologic history: Migraine
+- Psychiatric history: Anxiety, OCD, depression
+- Current medications: See medication list (not specified)
+- Drug allergies: NKDA
+- Recent dental treatment or trauma: Not reported
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening: 25 mm
+- Comfortable opening: 20 mm
+- Assisted opening: 35 mm
+- Pain with opening or lateral movement: Present
+- Deviation on opening: Not reported
+- Right lateral movement: 8 mm
+- Left lateral movement: 7 mm
+- Protrusion: Not reported
+- Overjet: Not reported
+- Overbite: Not reported
+
+## Muscle Palpation (0–3 scale)
+
+- Masseter (R/L): 3 / 3
+- Temporalis (R/L): 3 / 3
+- Sternocleidomastoid (R/L): 3 / 0
+- Occipital region (R/L): 3 / 0
+- Trapezius (R/L): Not reported
+- Familiar pain reproduced: Not reported
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 3 / 3
+- Pain with joint loading: On clenching pain in bilateral masseter and TMJ
+- Joint sounds: Left TMJ opening click
+
+## Dental / Oral Examination
+- Soft tissue findings: Mild linea alba and scalloping of tongue
+- Dentition status: Dentures
+- Occlusion: Not reported
+- Signs of parafunction: Not clearly reported
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: Within normal limits
+- Cervical findings: Pain in neck and jaw during movements and restriction
+
+---
+
+# Imaging (if available)
+- Type: Panoramic radiograph
+- Key findings: Condyles seated in fossae; no obvious dental or bony pathology
+
+---
+
+# Additional Notes
+none","Chronic bilateral constant 8/10 dull, achy pain involves the masseter muscles, temporomandibular joints, and neck, with sharp pain on mouth opening, worsening over many years and exacerbated about 8 years ago; chewing and jaw movement aggravate the pain, and migraine is associated. There is a history of jaw locking, left TMJ clicking on opening, restricted mandibular opening (comfortable 20 mm, maximum 25 mm, assisted 35 mm), pain with opening and lateral movements, and pain with joint loading/clenching in the bilateral masseters and TMJs. Examination shows marked tenderness of the bilateral masseters, bilateral temporalis muscles, bilateral TMJs, right sternocleidomastoid, and right occipital region. Additional positive findings include neck and jaw pain with cervical movement and restriction, poor sleep, psychosocial stressors, anxiety, OCD, depression, dentures, mild linea alba, and tongue scalloping.","[' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', '\n\n# Diagnostic Criteria for Temporomandibular Disorders (DC/TMD)\n\nSource: Schiffman et al., 2014  \nDiagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications.\n\n---\n\n# Muscle Disorders\n\n## Myalgia (ICD-9 729.1; ICD-10 M79.1)*\n\n**Description**  \nPain of muscle origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the masticatory muscles.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, in the ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for both of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ in the temporalis or masseter muscle(s) with at least one of the following provocation tests:  \n   a. Palpation of the temporalis or masseter muscle(s); OR  \n   b. Maximum unassisted or assisted opening movement(s).\n\n**Validity**  \nSensitivity 0.90; Specificity 0.99\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n\n## Local myalgia (ICD-9 729.1; ICD-10 M79.1)\n\n**Description**  \nPain of muscle origin as described for myalgia with localization of pain only at the site of p', 'for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', '(TACs) share the clinical features of unilateral headache and, usually, prominent cranial parasympathetic autonomic features, which are lateralized and ipsilateral to the headache. Experimental and human functional imaging suggests these syndromes activate a normal human trigeminal-parasympathetic reflex, with the clinical signs of cranial sympathetic dysfunction being secondary.\n\nTypical migraine aura can be seen, rarely, in association with TACs.\n\n---\n\n# 3.1 Cluster headache\n\n## Previously used terms:\nCiliary neuralgia; erythromelalgia of the head; erythroprosopalgia of Bing; hemicrania angioparalytica; hemicrania neuralgiformis chronica; histaminic cephalalgia; Horton’s headache; Harris-Horton’s disease; migrainous neuralgia (of Harris); petrosal neuralgia (of Gardner); Sluder’s neuralgia; sphenopalatine neuralgia; vidian neuralgia.\n\n---\n\n## Coded elsewhere:\nSymptomatic cluster headache, secondary to another disorder, is coded as a secondary headache attributed to that disorder.\n\n---\n\n## Description:\nAttacks of severe, strictly unilateral pain which is orbital, supraorbital, temporal or in any combination of these sites, lasting 15-180 minutes and occurring from once every other day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks ful', ' headache, and criterion B below  \n\nB. Occurring without a remission period, or with remissions lasting <3 months, for at least 1 year.\n\n---\n\n## Comment:\n\n3.1.2 Chronic cluster headache may arise de novo (previously referred to as primary chronic cluster headache), or evolve from 3.1.1 Episodic cluster headache (previously secondary chronic cluster headache). In some patients change occurs from 3.1.2 Chronic cluster headache to 3.1.1 Episodic cluster headache.\n\n\n## 3.2 Paroxysmal hemicrania\n\n### Description\nAttacks of severe, strictly unilateral pain in orbital, supraorbital, and/or temporal regions, lasting 2–30 minutes and occurring multiple times per day. Attacks are associated with ipsilateral cranial autonomic symptoms and respond absolutely to indomethacin.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–E  \nB. Severe unilateral orbital, supraorbital, and/or temporal pain lasting 2–30 minutes  \nC. Either or both of the following:\n   1. At least one of the following ipsilateral symptoms:\n      - Conjunctival injection and/or lacrimation  \n      - Nasal congestion and/or rhinorrhoea  \n      - Eyelid oedema  \n      - Forehead and facial sweating  \n      - Miosis and/or ptosis  \n   2. A sense of restlessness or agitation  \nD. Occurring with a frequency of >5 attacks per day  \nE. Prevented absolutely by therapeutic doses of indomethacin  \nF. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower durin', 'tacks fulfilling criteria for 3.2 Paroxysmal hemicrania  \nB. Occurring for >1 year:\n   - Without remission, OR  \n   - With remission periods <3 months  \n\n---\n\n### Clinical Note\n- May co-occur with trigeminal neuralgia (CPH-tic syndrome)  \n- Both conditions must be treated when present  \n\n## 3.3 Short-lasting unilateral neuralgiform headache attacks\n\n### Description\nAttacks of moderate or severe, strictly unilateral head pain lasting seconds to minutes, occurring at least once daily. Pain is typically in orbital, supraorbital, temporal, or other trigeminal distributions and is usually associated with ipsilateral cranial autonomic symptoms, especially lacrimation and conjunctival injection.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–D  \nB. Moderate or severe unilateral head pain lasting 1–600 seconds  \n   - Occurs as single stabs, series of stabs, or saw-tooth pattern  \nC. At least one of the following ipsilateral autonomic symptoms:\n   - Conjunctival injection and/or lacrimation  \n   - Nasal congestion and/or rhinorrhoea  \n   - Eyelid oedema  \n   - Forehead and facial sweating  \n   - Forehead and facial flushing  \n   - Sensation of fullness in the ear  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n#', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', 'tion can change over time, with paroxysms becoming more prolonged. A minority of patients will report attacks predominantly lasting for >2 minutes.  \n3. Pain may become more severe over time.  \n4. Some attacks may be, or appear to be, spontaneous, but there must be a history or finding of pain provoked by innocuous stimuli to meet this criterion. Ideally, the examining clinician should attempt to confirm the history by replicating the triggering phenomenon. However, this may not always be possible because of the patient’s refusal, the awkward anatomical location of the trigger and/or other factors.  \n\n---\n\n### Comments\n\nOther than the triggering phenomenon, most patients with 4.1.1 Trigeminal neuralgia fail to show sensory abnormalities within the trigeminal territory unless advanced methods are used (e.g. quantitative sensory testing). However, in some patients, clinical neurological examination may show sensory deficits. These should prompt neuroimaging investigations to explore the possible cause. Diagnosis of subforms such as 4.1.1.1 Classical trigeminal neuralgia, 4.1.1.2 Secondary trigeminal neuralgia or 4.1.1.3 Idiopathic trigeminal neuralgia is then possible.\n\nWhen very severe, the pain often evokes contraction of the muscles of the face on the affected side (tic douloureux).\n\nMild autonomic symptoms such as lacrimation and/or redness of the ipsilateral eye may be present.\n\nFollowing a painful paroxysm, there is usually a refractory period during which pain cannot be ', '1.1.2 Secondary trigeminal neuralgia and 4.1.2 Other trigeminal neuropathic pain.\n\n4.1.2 Other trigeminal neuropathic pain caused by a connective tissue disease or hereditary disorder is usually bilateral, but may begin asymmetrically and occasionally present with paroxysmal pain superimposed on the background pain. Patients will eventually develop bilateral sensory deficits and continuous pain, which clarify the diagnosis. MRI is normal, but trigeminal reflexes are invariably delayed or absent.\n\n---\n\n## 4.1.2.4.1 Probable trigeminal neuropathic pain attributed to other disorder\n\n### Diagnostic criterion\n\nA. Pain fulfilling all but criterion C for 4.1.2.4 Trigeminal neuropathic pain attributed to other disorder.\n\n---\n\n## 4.1.2.5 Idiopathic trigeminal neuropathic pain\n\n### Description\nUnilateral or bilateral facial pain in the distribution(s) of one or more branches of the trigeminal nerve, indicative of neural damage and persisting or recurring for more than 3 months, but of unknown aetiology.\n\n### Diagnostic criteria\n\nA. Pain, in a neuroanatomically plausible area within the distribution(s) of one or both trigeminal nerve(s), persisting or recurring for >3 months and fulfilling criterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the sa']","1) Primary diagnosis
+   - Myalgia
+   - Arthralgia
+
+2) Differential diagnoses
+   - Myofascial pain with referral
+   - Headache attributed to temporomandibular disorder
+   - Disc displacement with reduction
+   - Disc displacement without reduction with limited opening
+   - Migraine
+
+3) Clinical reasoning
+   - **Myalgia**: The vignette supports a muscle pain diagnosis under the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD). History is positive for pain in the jaw region, including the bilateral masseter muscles, and pain modified by jaw movement/function, especially chewing and mouth opening. Examination shows bilateral masseter and temporalis palpation tenderness (3/3), pain on opening/lateral movement, and limited opening with greater assisted opening (25 mm unassisted, 35 mm assisted), which is compatible with pain-limited opening. These findings support pain of masticatory muscle origin. However, the vignette does not explicitly document **familiar** pain with provocation, so the diagnosis is clinically supported but not fully criterion-confirmed from the information provided.
+   - **Arthralgia**: The vignette also supports temporomandibular joint pain under DC/TMD. History is positive for pain in the TMJ region bilaterally and pain with jaw movement/function. Examination shows bilateral TMJ palpation tenderness (3/3), pain with joint loading/clenching in the bilateral TMJ region, and sharp pain during mouth opening. These findings are consistent with bilateral TMJ arthralgia. However, as with myalgia, the vignette does not explicitly document **familiar** pain with provocation, so this is supported but not fully criterion-confirmed from the provided findings.
+   - These two diagnoses are both needed because the vignette documents separate pain findings in both the masticatory muscles and the TMJs.
+
+   - **Myofascial pain with referral**: Ranked first among differentials because the muscle palpation scores are 3 bilaterally in the masseter and temporalis, and the case also shows pain in adjacent regions including the neck. In the retrieved DC/TMD excerpt, myofascial pain with referral requires familiar pain on palpation plus pain beyond the boundary of the palpated muscle. The score of 3 may suggest referral, but the vignette does not explicitly state that the referred pain was familiar or clearly beyond the muscle boundary, so the subtype cannot be confirmed from the provided findings alone.
+   - **Headache attributed to temporomandibular disorder**: The patient has migraine listed as an associated symptom, but the vignette does not report temple headache, nor that headache is modified by jaw function, nor that temporalis provocation reproduces a familiar headache. Because the retrieved DC/TMD criteria require those findings, this remains a differential rather than a primary diagnosis.
+   - **Disc displacement with reduction**: Ranked next because there is a left TMJ opening click and a history of jaw lock. These findings suggest possible internal derangement. However, the retrieved corpus provided here did not include the DC/TMD diagnostic criteria for disc displacement subtypes, so this cannot be confirmed. The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone.
+   - **Disc displacement without reduction with limited opening**: Considered because there is a history of jaw lock and limited maximum opening of 25 mm. Assisted opening to 35 mm and pain-limited function could fit a closed-lock history or pain-related restriction. However, no current locking status, end-feel, or specific disc criteria are provided. The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone.
+   - **Migraine**: Included because migraine is explicitly reported in the history. It is ranked below the TMD diagnoses because the chief complaint and examination strongly localize the current pain to the masticatory muscles and TMJs, with clear jaw function provocation. The vignette does not provide enough migraine features to conclude that migraine is the main explanation for the bilateral face and jaw pain.
+
+4) Next steps
+   - Perform a focused DC/TMD pain examination to document whether palpation of the masseter, temporalis, and TMJ reproduces **familiar** pain and whether muscle palpation causes pain beyond the muscle boundary, to distinguish myalgia from myofascial pain with referral and to better confirm arthralgia.
+   - Perform a structured temporomandibular joint functional examination for intra-articular disorder: repeat opening/closing with auscultation or palpation for clicking, assess deviation/deflection, and document any current intermittent or persistent locking.
+   - Consider magnetic resonance imaging (MRI) of the TMJ if locking history, limited opening, and joint symptoms persist or if confirmation of disc displacement would change management.
+   - Begin conservative reversible management while confirming diagnosis: soft diet, limitation of extreme jaw opening, thermal therapy, and consideration of a stabilization appliance only after full assessment of denture status and function.
+   - Coordinate with the patient’s physician or neurologist regarding the reported migraine and with appropriate medical providers for significant psychosocial comorbidity if these factors are contributing to pain persistence and disability.",V4_arch3_20260411_113657.json
+V5,"# Case ID
+- ID: V5
+- Age: Not reported
+- Sex: Not reported
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Pain in the right mandibular region.
+
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: Right V3 region (#29–30)
+- Side: Right
+- Onset and duration:  Began 3 years ago following extraction and root canal treatment; constant since onset
+- Pain quality: Sharp
+- Intensity: 5–6/10
+- Temporal pattern: Constant
+- Aggravating factors: Not sure
+- Relieving factors: Rest
+- Associated symptoms: Not reported
+
+---
+
+## Headache (if present)
+- Present: No
+- Location: Not applicable
+- Frequency pattern: Not applicable
+- Associated features: Not applicable
+- Relationship to jaw pain: Not applicable
+
+---
+
+# TMJ / Jaw History
+- Pain with jaw movement: Not reported
+- Joint sounds: None reported
+- Locking history: No
+- Bite change: No
+- Parafunction: Not sure
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: Not reported
+- Morning jaw soreness: Not reported
+- Stress level: Anxiety reported
+- Awareness of clenching or grinding: Not sure
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: Angina; heart valve replacement; postural orthostatic tachycardia syndrome (POTS); Ehlers–Danlos syndrome (EDS)
+- Neurologic history: Not reported
+- Psychiatric history: Anxiety
+- Current medications: Prednisone; pilocarpine; pantoprazole; clopidogrel; famotidine; lisinopril; nifedipine; nystatin; diazepam (PRN)
+- Drug allergies: Aspirin; codeine; sulfa
+- Recent dental treatment or trauma: Prior extraction and root canal treatment several years ago
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening: Reduced opening
+- Comfortable opening: 42 mm 
+- Pain with opening or lateral movement: Not reported
+- Deviation on opening: Slight deflection to the right
+- Right lateral movement: 9 mm
+- Left lateral movement: 8 mm
+- Protrusion: Not reported
+- Overjet: Not reported
+- Overbite: Not reported
+
+## Muscle Palpation (0–3 scale)
+
+- Masseter (R/L): 2 / 2
+- Temporalis (R/L): 2 / 2
+- Sternocleidomastoid (R/L): 2 / 2
+- Occipital region (R/L): 0 / 3
+- Trapezius (R/L): 0 / 2
+- Familiar pain reproduced: Not reported
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 2 / 2
+- Pain with joint loading: Not reported
+- Joint sounds: None reported
+
+## Dental / Oral Examination
+- Soft tissue findings: Within normal limits
+- Dentition status: Upper dentures; partially edentulous lower arch with anterior bridge
+- Occlusion: Not reported
+- Signs of parafunction: Not sure
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: Hyperesthesia in right V3 intraorally; otherwise within normal limits
+- Cervical findings: Cervical spine palpation 0 / 2
+
+---
+
+# Imaging (if available)
+- Type: Not reported
+- Key findings: Not reported","Constant sharp right mandibular pain in the right V3 distribution around teeth #29–30 began 3 years ago after extraction and root canal treatment and persists at 5–6/10 intensity, with rest providing some relief. Examination shows reduced mandibular opening with slight deflection to the right on opening. There is bilateral tenderness of the masseter, temporalis, sternocleidomastoid, and TMJs, with additional tenderness in the left occipital region, left trapezius, and left cervical spine region. Sensory exam is notable for intraoral hyperesthesia in the right V3 distribution.","[' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', 'for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', '\n\n# Diagnostic Criteria for Temporomandibular Disorders (DC/TMD)\n\nSource: Schiffman et al., 2014  \nDiagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications.\n\n---\n\n# Muscle Disorders\n\n## Myalgia (ICD-9 729.1; ICD-10 M79.1)*\n\n**Description**  \nPain of muscle origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the masticatory muscles.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, in the ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for both of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ in the temporalis or masseter muscle(s) with at least one of the following provocation tests:  \n   a. Palpation of the temporalis or masseter muscle(s); OR  \n   b. Maximum unassisted or assisted opening movement(s).\n\n**Validity**  \nSensitivity 0.90; Specificity 0.99\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n\n## Local myalgia (ICD-9 729.1; ICD-10 M79.1)\n\n**Description**  \nPain of muscle origin as described for myalgia with localization of pain only at the site of p', '(TACs) share the clinical features of unilateral headache and, usually, prominent cranial parasympathetic autonomic features, which are lateralized and ipsilateral to the headache. Experimental and human functional imaging suggests these syndromes activate a normal human trigeminal-parasympathetic reflex, with the clinical signs of cranial sympathetic dysfunction being secondary.\n\nTypical migraine aura can be seen, rarely, in association with TACs.\n\n---\n\n# 3.1 Cluster headache\n\n## Previously used terms:\nCiliary neuralgia; erythromelalgia of the head; erythroprosopalgia of Bing; hemicrania angioparalytica; hemicrania neuralgiformis chronica; histaminic cephalalgia; Horton’s headache; Harris-Horton’s disease; migrainous neuralgia (of Harris); petrosal neuralgia (of Gardner); Sluder’s neuralgia; sphenopalatine neuralgia; vidian neuralgia.\n\n---\n\n## Coded elsewhere:\nSymptomatic cluster headache, secondary to another disorder, is coded as a secondary headache attributed to that disorder.\n\n---\n\n## Description:\nAttacks of severe, strictly unilateral pain which is orbital, supraorbital, temporal or in any combination of these sites, lasting 15-180 minutes and occurring from once every other day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks ful', 'iagnosis  \n\n---\n\n### Notes\n- Indomethacin dosing:\n  - Oral: ≥150 mg/day (up to 225 mg/day)  \n  - Injection: 100–200 mg  \n- Migrainous features (photophobia, phonophobia) may be present  \n\n---\n\n### Clinical Features\n- Continuous (not episodic) pain  \n- Unilateral with superimposed exacerbations  \n- Absolute indomethacin response (shared with paroxysmal hemicrania)  \n\n---\n\n## 3.5 Probable trigeminal autonomic cephalalgia\n\n### Description\nHeadache attacks that resemble a TAC but are missing one required diagnostic criterion for a specific TAC subtype.\n\n---\n\n### Diagnostic Criteria\nA. Attacks fulfilling all but one of the criteria for:\n   - 3.1 Cluster headache OR  \n   - 3.2 Paroxysmal hemicrania OR  \n   - 3.3 Short-lasting unilateral neuralgiform headache attacks OR  \n   - 3.4 Hemicrania continua  \nB. Do not meet full criteria for any other headache disorder  \nC. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Clinical Notes\n- Used when presentation is incomplete or early  \n- May evolve into a definitive TAC diagnosis over time  ', 'tacks fulfilling criteria for 3.2 Paroxysmal hemicrania  \nB. Occurring for >1 year:\n   - Without remission, OR  \n   - With remission periods <3 months  \n\n---\n\n### Clinical Note\n- May co-occur with trigeminal neuralgia (CPH-tic syndrome)  \n- Both conditions must be treated when present  \n\n## 3.3 Short-lasting unilateral neuralgiform headache attacks\n\n### Description\nAttacks of moderate or severe, strictly unilateral head pain lasting seconds to minutes, occurring at least once daily. Pain is typically in orbital, supraorbital, temporal, or other trigeminal distributions and is usually associated with ipsilateral cranial autonomic symptoms, especially lacrimation and conjunctival injection.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–D  \nB. Moderate or severe unilateral head pain lasting 1–600 seconds  \n   - Occurs as single stabs, series of stabs, or saw-tooth pattern  \nC. At least one of the following ipsilateral autonomic symptoms:\n   - Conjunctival injection and/or lacrimation  \n   - Nasal congestion and/or rhinorrhoea  \n   - Eyelid oedema  \n   - Forehead and facial sweating  \n   - Forehead and facial flushing  \n   - Sensation of fullness in the ear  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n#', '3 months and fulfilling criteria C and D  \n\nB. Both of the following:  \n1. history of a mechanical, thermal, radiation or chemical injury to the peripheral trigeminal nerve(s)  \n2. diagnostic test confirmation¹ of a lesion of the peripheral trigeminal nerve(s) explaining the pain²  \n\nC. Onset within 6 months after the injury³  \n\nD. Associated with somatosensory symptoms and/or signs⁴ in the same neuroanatomically plausible distribution  \n\nE. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Notes\n\n1. Tests that confirm a relevant lesion or disease affecting the trigeminal nerve may, for example, be surgical or radiological confirmation of nerve compression or lesion, nerve conduction study, laser-evoked potentials, blink reflex or skin biopsy confirmation of reduced nerve fibre terminals. Positive findings in these investigations may provide important diagnostic hints at the source of pain. However, all clinical and diagnostic aspects of the pain need to be considered.  \n\n2. The severity of nerve injuries may range from mild to severe. They include external trauma and iatrogenic injuries from dental treatments such as local anaesthetic injections, root canal therapies, extractions, oral surgery, dental implants, orthognathic surgery and other invasive procedures.  \n\n3. Specifically following radiation-induced postganglionic injury, neuropathic pain may appear after >3 months.  \n\n4. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypa', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', 'tive of neural damage. The primary pain is usually continuous or near-continuous, and commonly described as burning, squeezing, aching or likened to pins and needles. Superimposed brief pain paroxysms may occur but these are not the predominant pain type. This combination is distinct from that of 4.1.1 Trigeminal neuralgia. There are clinically detectable somatosensory changes within the trigeminal distribution, and mechanical allodynia and cold hyperalgesia/allodynia are common, fulfilling the IASP criteria for neuropathic pain. Allodynic areas may be much larger than the punctate trigger zones present in 4.1.1 Trigeminal neuralgia.\n\n---\n\n## 4.1.2.1 Trigeminal neuropathic pain attributed to herpes zoster\n\n### Description\nUnilateral facial pain of less than 3 months’ duration in the distribution of one or more branches of the trigeminal nerve, caused by, and associated with other symptoms and/or clinical signs of, acute herpes zoster.\n\n### Diagnostic criteria\n\nA. Unilateral facial pain in the distribution(s) of a trigeminal nerve branch or branches, lasting <3 months  \n\nB. One or more of the following:  \n1. herpetic eruption has occurred in the same trigeminal distribution (as the pain)  \n2. Varicella-zoster virus (VZV) has been detected in the cerebrospinal fluid (CSF) by polymerase chain reaction (PCR)  \n3. direct immunofluorescence assay for VZV antigen or PCR assay for VZV DNA is positive in cells obtained from the base of lesions  \n\nC. Not better accounted for by another']","1) Primary diagnosis
+   - Painful post-traumatic trigeminal neuropathic pain
+
+2) Differential diagnoses
+   - Persistent idiopathic facial pain
+   - Arthralgia
+   - Myalgia
+   - Local myalgia
+   - Trigeminal autonomic cephalalgia
+
+3) Clinical reasoning
+   - **Painful post-traumatic trigeminal neuropathic pain**  
+     This is the best-supported diagnosis from the vignette. The pain is in the right mandibular division (right V3 region, #29–30), began after dental procedures (extraction and root canal treatment), and has been constant for 3 years. The vignette also reports hyperesthesia in the right V3 distribution intraorally, which is a somatosensory abnormality in a neuroanatomically plausible distribution. The ICOP excerpt supports painful post-traumatic trigeminal neuropathic pain when there is: a history of injury to a peripheral trigeminal nerve, onset after that injury, and associated somatosensory symptoms and/or signs in the same distribution. The prior extraction and root canal treatment are compatible with iatrogenic trigeminal nerve injury mechanisms listed in the excerpt, and the hyperesthesia strongly supports neuropathic pain rather than a primary temporomandibular disorder (TMD) alone.
+
+   - **Persistent idiopathic facial pain**  
+     This is the leading differential because the pain is persistent and facial/oral in location. However, it is ranked below painful post-traumatic trigeminal neuropathic pain because the vignette provides a plausible post-procedural trigger and a sensory abnormality (hyperesthesia), both of which favor neuropathic pain over idiopathic facial pain. Persistent idiopathic facial pain is generally considered when no clear cause is identified; here, a potential causative event is present.
+
+   - **Arthralgia**  
+     This is considered because temporomandibular joint (TMJ) palpation scores are 2 on both right and left, indicating pain on palpation of both TMJs. However, the DC/TMD criteria in the excerpt require pain in the jaw, temple, ear, or in front of ear that is modified by jaw movement, function, or parafunction, plus familiar pain provoked by TMJ palpation or jaw movement. In this vignette, pain with jaw movement is not reported, and familiar pain reproduction is not reported. Also, the chief complaint is localized to the right V3 dental-alveolar region rather than the TMJ region. Therefore, arthralgia is possible but not the best primary diagnosis.
+
+   - **Myalgia**  
+     This is considered because the masseter and temporalis palpation scores are 2 bilaterally, indicating pain on palpation of these muscles. However, the DC/TMD criteria require pain modified by jaw movement, function, or parafunction and familiar pain reproduced with palpation or opening. Those key historical and provocation elements are not reported. In addition, the primary complaint is constant right V3 pain after dental treatment with sensory change, which is better explained by neuropathic pain.
+
+   - **Local myalgia**  
+     This is less likely than myalgia because the vignette does not document localization of pain only at the palpation site, nor does it report familiar pain reproduction. The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone.
+
+   - **Trigeminal autonomic cephalalgia**  
+     This is very unlikely but included to complete the differential because temporal/facial pain disorders can mimic one another. It is ranked last because the vignette does not report headache attacks, autonomic symptoms, orbital/supraorbital/temporal pain pattern, or attack-like episodes. The pain is constant right V3 pain, which does not fit the ICHD-3 trigeminal autonomic cephalalgia patterns in the retrieved excerpts.
+
+4) Next steps
+   - Perform a focused neurosensory examination of the right mandibular division [V3] distribution to document the extent and type of sensory abnormality and help confirm or refute painful post-traumatic trigeminal neuropathic pain.
+   - Obtain imaging or records relevant to the prior extraction and root canal region, such as periapical radiographs and/or cone beam computed tomography, to evaluate for ongoing local odontogenic or bony pathology that could explain the pain.
+   - Reassess temporomandibular disorder features with targeted history and provocation testing: specifically ask whether pain is modified by jaw movement, function, or parafunction and whether palpation of the temporalis, masseter, or temporomandibular joint [TMJ] reproduces familiar pain.
+   - Review medication and medical risk factors before treatment escalation, especially given angina, heart valve replacement, clopidogrel use, and multiple comorbidities; coordinate with the patient’s physician as needed for safety.
+   - Begin with conservative, reversible management while diagnostic clarification proceeds, and consider referral to an orofacial pain specialist or neurologist if neuropathic pain remains the leading diagnosis after examination.",V5_arch3_20260408_080353.json
+V6,"# Case ID
+- ID: V6
+- Age: Not reported
+- Sex: Not reported
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Persistent pain in the Left maxillary anterior region (implant site, teeth 21–22).
+
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: Left maxillary anterior region (implant site, teeth 21–22)
+- Side: Left
+- Onset and duration: Began following extraction and implant placement in the same region 4-5 years ago
+- Pain quality: Dull, aching 
+- Intensity: 4–5/10
+- Temporal pattern: Continuous
+- Aggravating factors: Hot drinks, cold drinks, brushing the area
+- Relieving factors: None reported
+- Associated symptoms: Occasional radiation toward the posterior mandible
+
+Previous medications tried:
+- Oxcarbazepine
+- Carbamazepine
+
+Response: Not effective.
+
+---
+
+# TMJ / Jaw History
+- Pain with jaw movement: None reported
+- Joint sounds: None reported
+- Locking history: None reported
+- Bite change: None reported
+- Parafunction: Not reported
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: Not reported
+- Morning jaw soreness: Not reported
+- Stress level: Not reported
+- Awareness of clenching or grinding: Not reported
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: Not reported
+- Neurologic history: Not reported
+- Psychiatric history: Not reported
+- Current medications: Not reported
+- Drug allergies: NKDA
+- Recent dental treatment or trauma: Initial pain began in tooth #19, which was subsequently extracted prior to implant placement
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening: 45 mm
+- Comfortable opening: Not reported
+- Pain with opening or lateral movement: None reported
+- Deviation on opening: None reported
+- Right lateral movement: Within normal limits
+- Left lateral movement: Within normal limits
+- Protrusion: Not reported
+- Overjet: Not reported
+- Overbite: Not reported
+
+---
+
+## Muscle Palpation (0–3 scale)
+- Masseter (R/L): 0 / 0
+- Temporalis (R/L): 0 / 0
+- Sternocleidomastoid (R/L): 0 / 0
+- Occipital region (R/L): 0 / 0
+- Trapezius (R/L): 0 / 0
+- Familiar pain reproduced: No
+
+---
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 0 / 0
+- Pain with joint loading: None reported
+- Joint sounds: None reported
+
+---
+
+## Dental / Oral Examination
+- Soft tissue findings: Within normal limits
+- Dentition status: Implants present in left maxillary anterior region 
+- Occlusion: Not reported
+- Signs of parafunction: Not reported
+
+---
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: Normal
+- Cervical findings: Within normal limits
+
+---
+
+# Imaging (if available)
+- Type: Not reported
+- Key findings: Not reported
+
+---
+
+# Additional Notes
+Pain onset is temporally associated with prior dental procedures in the same region.","Persistent continuous dull, aching pain (4–5/10) is present in the left maxillary anterior implant region at teeth 21–22, beginning after extraction and implant placement in the same area 4–5 years ago. The pain is triggered by hot drinks, cold drinks, and brushing the area, with no reported relief. It occasionally radiates toward the posterior mandible. Prior trials of oxcarbazepine and carbamazepine were ineffective, and the pain onset is temporally associated with prior dental procedures in this region.","['for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', 'ical locations that they have experienced pain in the last 30 days. For a given diagnosis, the location of pain induced by the specified provocation test(s) must be in an anatomical structure consistent with that diagnosis.\n\n‡ “Familiar pain” or “familiar headache” is based on patient report that the pain induced by the specified provocation test(s) has replicated the pain that the patient has experienced in the time frame of interest, which is usually the last 30 days. “Familiar pain” is pain that is similar or like the patient’s pain complaint. “Familiar headache” is pain that is similar or like the patient’s headache complaint.\n\n§ The ICD-9 and ICD-10 have not established a specific code for headache attributed to TMD as a secondary headache; ICD-9 339.89 and ICD-10 G44.89 are for “other headache syndrome” and ICD-9 784.0 is for “Headache, Facial Pain, Pain in Head NOS (Non-specific).”\n\n---\n# Disc Disorders\n\n## Disc displacement with reduction (ICD-9 524.63; ICD-10 M26.63)*\n\n**Description**\n\nAn intracapsular biomechanical disorder involving the condyle-disc complex. In the closed mouth position, the disc is in an anterior position relative to the condylar head and the disc reduces upon opening of the mouth. Medial and lateral displacement of the disc may also be present. Clicking, popping, or snapping noises may occur with disc reduction. A history of prior locking in the closed position coupled with interference in mastication precludes this diagnosis.\n\n**History**\n\nPosit', ' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', 'iagnosis  \n\n---\n\n### Notes\n- Indomethacin dosing:\n  - Oral: ≥150 mg/day (up to 225 mg/day)  \n  - Injection: 100–200 mg  \n- Migrainous features (photophobia, phonophobia) may be present  \n\n---\n\n### Clinical Features\n- Continuous (not episodic) pain  \n- Unilateral with superimposed exacerbations  \n- Absolute indomethacin response (shared with paroxysmal hemicrania)  \n\n---\n\n## 3.5 Probable trigeminal autonomic cephalalgia\n\n### Description\nHeadache attacks that resemble a TAC but are missing one required diagnostic criterion for a specific TAC subtype.\n\n---\n\n### Diagnostic Criteria\nA. Attacks fulfilling all but one of the criteria for:\n   - 3.1 Cluster headache OR  \n   - 3.2 Paroxysmal hemicrania OR  \n   - 3.3 Short-lasting unilateral neuralgiform headache attacks OR  \n   - 3.4 Hemicrania continua  \nB. Do not meet full criteria for any other headache disorder  \nC. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Clinical Notes\n- Used when presentation is incomplete or early  \n- May evolve into a definitive TAC diagnosis over time  ', '(TACs) share the clinical features of unilateral headache and, usually, prominent cranial parasympathetic autonomic features, which are lateralized and ipsilateral to the headache. Experimental and human functional imaging suggests these syndromes activate a normal human trigeminal-parasympathetic reflex, with the clinical signs of cranial sympathetic dysfunction being secondary.\n\nTypical migraine aura can be seen, rarely, in association with TACs.\n\n---\n\n# 3.1 Cluster headache\n\n## Previously used terms:\nCiliary neuralgia; erythromelalgia of the head; erythroprosopalgia of Bing; hemicrania angioparalytica; hemicrania neuralgiformis chronica; histaminic cephalalgia; Horton’s headache; Harris-Horton’s disease; migrainous neuralgia (of Harris); petrosal neuralgia (of Gardner); Sluder’s neuralgia; sphenopalatine neuralgia; vidian neuralgia.\n\n---\n\n## Coded elsewhere:\nSymptomatic cluster headache, secondary to another disorder, is coded as a secondary headache attributed to that disorder.\n\n---\n\n## Description:\nAttacks of severe, strictly unilateral pain which is orbital, supraorbital, temporal or in any combination of these sites, lasting 15-180 minutes and occurring from once every other day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks ful', ' headache, and criterion B below  \n\nB. Occurring without a remission period, or with remissions lasting <3 months, for at least 1 year.\n\n---\n\n## Comment:\n\n3.1.2 Chronic cluster headache may arise de novo (previously referred to as primary chronic cluster headache), or evolve from 3.1.1 Episodic cluster headache (previously secondary chronic cluster headache). In some patients change occurs from 3.1.2 Chronic cluster headache to 3.1.1 Episodic cluster headache.\n\n\n## 3.2 Paroxysmal hemicrania\n\n### Description\nAttacks of severe, strictly unilateral pain in orbital, supraorbital, and/or temporal regions, lasting 2–30 minutes and occurring multiple times per day. Attacks are associated with ipsilateral cranial autonomic symptoms and respond absolutely to indomethacin.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–E  \nB. Severe unilateral orbital, supraorbital, and/or temporal pain lasting 2–30 minutes  \nC. Either or both of the following:\n   1. At least one of the following ipsilateral symptoms:\n      - Conjunctival injection and/or lacrimation  \n      - Nasal congestion and/or rhinorrhoea  \n      - Eyelid oedema  \n      - Forehead and facial sweating  \n      - Miosis and/or ptosis  \n   2. A sense of restlessness or agitation  \nD. Occurring with a frequency of >5 attacks per day  \nE. Prevented absolutely by therapeutic doses of indomethacin  \nF. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower durin', 'ies, extractions, oral surgery, dental implants, orthognathic surgery and other invasive procedures.  \n\n3. Specifically following radiation-induced postganglionic injury, neuropathic pain may appear after >3 months.  \n\n4. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia). Note that positive somatosensory signs are not specific to neuropathy. Negative or positive somatosensory signs consistent with the distribution of the pain may be sufficient to indicate the presence of a lesion of the trigeminal nerve. The clinical examination is supplemented by laboratory tests such as quantitative sensory testing.\n\n### Comments\n\nThe structure and content of the diagnostic criteria for 4.1.2.3 Post-traumatic trigeminal neuropathic pain deviate somewhat from those of 13.1.2.3 Painful post-traumatic trigeminal neuropathy in ICHD-3 in order to comply with IASP criteria.\n\nPain duration ranges widely from paroxysmal to constant, and may be mixed.\n\nThere may seem to be a partial overlap with 6.3.2 Persistent idiopathic dentoalveolar pain with somatosensory changes, but in this condition there may be no clear temporal relationship and the somatosensory changes may not be limited to a neuroanatomically confined area, in contrast to the criteria for 4.1.2.3 Post-traumatic trigeminal neuropathic pain.\n\nNeuroablative procedures for trigeminal neuralgia, aimed at the trigeminal ganglion or nerve root, may result i', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', '3 months and fulfilling criteria C and D  \n\nB. Both of the following:  \n1. history of a mechanical, thermal, radiation or chemical injury to the peripheral trigeminal nerve(s)  \n2. diagnostic test confirmation¹ of a lesion of the peripheral trigeminal nerve(s) explaining the pain²  \n\nC. Onset within 6 months after the injury³  \n\nD. Associated with somatosensory symptoms and/or signs⁴ in the same neuroanatomically plausible distribution  \n\nE. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Notes\n\n1. Tests that confirm a relevant lesion or disease affecting the trigeminal nerve may, for example, be surgical or radiological confirmation of nerve compression or lesion, nerve conduction study, laser-evoked potentials, blink reflex or skin biopsy confirmation of reduced nerve fibre terminals. Positive findings in these investigations may provide important diagnostic hints at the source of pain. However, all clinical and diagnostic aspects of the pain need to be considered.  \n\n2. The severity of nerve injuries may range from mild to severe. They include external trauma and iatrogenic injuries from dental treatments such as local anaesthetic injections, root canal therapies, extractions, oral surgery, dental implants, orthognathic surgery and other invasive procedures.  \n\n3. Specifically following radiation-induced postganglionic injury, neuropathic pain may appear after >3 months.  \n\n4. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypa']","1) Primary diagnosis
+   - Post-traumatic trigeminal neuropathic pain
+
+2) Differential diagnoses
+   - Persistent idiopathic dentoalveolar pain
+   - Painful post-traumatic trigeminal neuropathy
+   - Arthralgia
+   - Myalgia
+   - Headache attributed to temporomandibular disorder (TMD)
+
+3) Clinical reasoning
+   - **Post-traumatic trigeminal neuropathic pain** is the best-supported diagnosis from the vignette. The pain is localized to the left maxillary anterior implant site region, began after extraction and implant placement in the same area 4–5 years ago, is continuous, dull and aching, and is provoked by hot drinks, cold drinks, and brushing. The vignette explicitly states a temporal association with prior dental procedures in the same region, which supports a post-traumatic trigeminal pain mechanism. This diagnosis is more appropriate than a temporomandibular disorder (TMD) diagnosis because there is no jaw movement-related pain, no temporomandibular joint (TMJ) pain, no muscle tenderness, and no familiar pain reproduced by masticatory system provocation.
+   - The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone. Specifically, the excerpt supports post-traumatic trigeminal neuropathic pain when there is a history of injury, diagnostic confirmation of a trigeminal nerve lesion, onset within 6 months, and somatosensory symptoms/signs. In this vignette, the temporal relationship to dental procedures is present, but diagnostic confirmation of a nerve lesion is not provided.
+
+   - **Persistent idiopathic dentoalveolar pain** is the leading differential because the pain is persistent, dentoalveolar/maxillary in location, dull/aching, and continuous. However, it is ranked below post-traumatic trigeminal neuropathic pain because the vignette gives a clear temporal relationship to extraction and implant placement, which argues against an idiopathic process.
+   - **Painful post-traumatic trigeminal neuropathy** is also plausible and closely overlaps conceptually with post-traumatic trigeminal neuropathic pain. It is ranked slightly lower because the vignette lacks objective confirmation of trigeminal nerve lesion or detailed sensory mapping.
+   - **Arthralgia** is unlikely. The DC/TMD criteria in the retrieved excerpts require pain in the jaw, temple, ear, or in front of the ear that is modified by jaw movement, function, or parafunction, plus familiar TMJ pain with palpation or jaw movement provocation. Here, there is no pain with jaw movement, TMJ palpation is 0/0, and no familiar pain is reproduced.
+   - **Myalgia** is unlikely. The DC/TMD muscle pain criteria in the retrieved excerpts require pain modified by jaw movement/function/parafunction and familiar pain with palpation of the temporalis or masseter muscle. In this vignette, masseter and temporalis palpation scores are 0/0 bilaterally, and familiar pain is not reproduced.
+   - **Headache attributed to temporomandibular disorder (TMD)** is very unlikely. The DC/TMD criteria in the retrieved excerpts require temple headache modified by jaw function and reproduced by temporalis palpation or jaw movement. The patient’s complaint is not headache, not in the temple, and temporalis palpation is 0/0.
+
+4) Next steps
+   - Perform a focused neurosensory examination of the left maxillary anterior region and adjacent trigeminal distributions to look for negative or positive somatosensory findings that support trigeminal neuropathic pain.
+   - Obtain imaging and/or dental records of the extraction and implant site as indicated to assess for a structural post-surgical cause and to help identify whether there is evidence of local nerve injury or another local pathology.
+   - Reassess the implant site and surrounding dentoalveolar tissues clinically to exclude ongoing odontogenic, peri-implant, or other local causes of pain before confirming a neuropathic diagnosis.
+   - If neurosensory findings or history remain suggestive, refer to orofacial pain and/or oral and maxillofacial surgery for diagnostic confirmation and coordinated conservative management.
+   - Avoid irreversible dental retreatment unless a clear structural dental cause is identified.",V6_arch3_20260411_114550.json
+V8,"# Case ID
+- ID: V8
+- Age: 45
+- Sex: Female
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Numbness of lower right lip and pain on gums on the same side.
+
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: lower right lip; right V3 area; mental nerve territory; gums on same side
+- Side: Right
+- Onset and duration: approximately one year ago after biopsy
+- Pain quality: sharp
+- Intensity: 5/10
+- Temporal pattern: Not reported
+- Aggravating factors: Not reported
+- Relieving factors: Not reported
+- Associated symptoms: numbness of lower right lip
+
+---
+
+# TMJ / Jaw History
+- Pain with jaw movement: Not reported
+- Joint sounds: No TMJ sounds noted
+- Locking history: Not reported
+- Bite change: Not reported
+- Parafunction: Not reported
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: Not reported
+- Morning jaw soreness: Not reported
+- Stress level: Not reported
+- Awareness of clenching or grinding: Not reported
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: Medical Hx see list
+- Neurologic history: Not reported
+- Psychiatric history: Not reported
+- Current medications: see list
+- Drug allergies: NKDA
+- Recent dental treatment or trauma: biopsy performed by an ENT
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening: 45 mm
+- Comfortable opening: Not reported
+- Pain with opening or lateral movement: Right lateral movement produces pain in left masseter; left lateral movement produces pain in right masseter- Deviation on opening: Not reported
+- Right lateral movement: Not reported
+- Left lateral movement: Not reported
+- Protrusion: Not reported
+- Overjet: Not reported
+- Overbite: Not reported
+
+## Muscle Palpation (0–3 scale)
+
+- Masseter (R/L): 3 / 3
+- Temporalis (R/L): 3 / 3
+- Sternocleidomastoid (R/L): 2 / 2
+- Occipital region (R/L): Not reported
+- Trapezius (R/L): Not reported
+- Familiar pain reproduced: Not reported
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 1 / 1
+- Pain with joint loading: Not reported
+- Joint sounds: No TMJ sounds noted
+
+## Dental / Oral Examination
+- Soft tissue findings: pat completely edentolous. WNL
+- Dentition status: completely edentolous
+- Occlusion: Not reported
+- Signs of parafunction: Not reported
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: hypoesthesia right lower lip; hyperalgesia right V3 intraorally around implant and mental nerve territory
+- Cervical findings: Not reported
+
+---
+
+# Imaging (if available)
+- Type: Panoramic radiograph
+- Key findings: None
+
+---
+
+# Additional Notes
+- The patient complains of numbness in the lower right lip, which began approximately one year ago after a biopsy performed by an ENT. She also experiences pain in the right V3 area around the mental nerve territory.
+- Limitation: no","45-year-old woman with sharp 5/10 pain and numbness involving the lower right lip, right V3 distribution, mental nerve territory, and ipsilateral gums, beginning about 1 year ago after an ENT biopsy. Cranial nerve exam shows hypoesthesia of the right lower lip and hyperalgesia intraorally in the right V3/mental nerve territory around the implant. Jaw movement provokes bilateral masseter pain, with right lateral movement causing left masseter pain and left lateral movement causing right masseter pain. Examination also shows marked bilateral tenderness of the masseter and temporalis muscles, moderate bilateral sternocleidomastoid tenderness, and mild bilateral TMJ palpation tenderness.","[' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', 'for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', '\n\n# Diagnostic Criteria for Temporomandibular Disorders (DC/TMD)\n\nSource: Schiffman et al., 2014  \nDiagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications.\n\n---\n\n# Muscle Disorders\n\n## Myalgia (ICD-9 729.1; ICD-10 M79.1)*\n\n**Description**  \nPain of muscle origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the masticatory muscles.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, in the ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for both of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ in the temporalis or masseter muscle(s) with at least one of the following provocation tests:  \n   a. Palpation of the temporalis or masseter muscle(s); OR  \n   b. Maximum unassisted or assisted opening movement(s).\n\n**Validity**  \nSensitivity 0.90; Specificity 0.99\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n\n## Local myalgia (ICD-9 729.1; ICD-10 M79.1)\n\n**Description**  \nPain of muscle origin as described for myalgia with localization of pain only at the site of p', 'from the point of origin and affecting a greater or smaller part of one side of the body, face and/or tongue. Numbness may occur in its wake, but numbness may also be the only symptom.\n\nLess frequent are speech disturbances, usually aphasic but often hard to categorize.\n\nSystematic studies have demonstrated that many patients with visual aura occasionally have symptoms in the extremities and/or speech symptoms. Conversely, patients with symptoms in the extremities and/or speech or language symptoms almost always also experience visual aura symptoms at least during some attacks. A distinction between migraine with visual aura, migraine with hemiparaesthetic aura and migraine with speech and/or language aura is probably artificial, and therefore not recognized in this classification: they are all coded as 1.2.1 Migraine with typical aura.\n\nWhen aura symptoms are multiple, they usually follow one another in succession, beginning with visual, then sensory, then aphasic; but the reverse and other orders have been noted. The accepted duration for most aura symptoms is one hour, but motor symptoms are often longer lasting.\n\nPatients with aura symptoms arising from the brainstem are coded as 1.2.2 Migraine with brainstem aura, but they almost always have additional typical aura symptoms. When the aura includes motor weakness, the disorder should be coded as 1.2.3 Hemiplegic migraine or one of its subforms. 1.2.3 Hemiplegic migraine is classified as a separate subtype because of genet', '(TACs) share the clinical features of unilateral headache and, usually, prominent cranial parasympathetic autonomic features, which are lateralized and ipsilateral to the headache. Experimental and human functional imaging suggests these syndromes activate a normal human trigeminal-parasympathetic reflex, with the clinical signs of cranial sympathetic dysfunction being secondary.\n\nTypical migraine aura can be seen, rarely, in association with TACs.\n\n---\n\n# 3.1 Cluster headache\n\n## Previously used terms:\nCiliary neuralgia; erythromelalgia of the head; erythroprosopalgia of Bing; hemicrania angioparalytica; hemicrania neuralgiformis chronica; histaminic cephalalgia; Horton’s headache; Harris-Horton’s disease; migrainous neuralgia (of Harris); petrosal neuralgia (of Gardner); Sluder’s neuralgia; sphenopalatine neuralgia; vidian neuralgia.\n\n---\n\n## Coded elsewhere:\nSymptomatic cluster headache, secondary to another disorder, is coded as a secondary headache attributed to that disorder.\n\n---\n\n## Description:\nAttacks of severe, strictly unilateral pain which is orbital, supraorbital, temporal or in any combination of these sites, lasting 15-180 minutes and occurring from once every other day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks ful', '  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n### Clinical Features\n- Very short duration (seconds to minutes)  \n- High frequency  \n- Prominent cranial autonomic symptoms  \n- Can be triggered repeatedly **without a refractory period**  \n\n---\n\n### Key Differentiation Note\n- Unlike trigeminal neuralgia, attacks typically **do NOT have a refractory period**  \n\n---\n\n## 3.3.1 SUNCT (Short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing)\n\n### Diagnostic Criteria\nA. Attacks fulfilling criteria for 3.3  \nB. Both of the following present, ipsilateral to pain:\n   - Conjunctival injection  \n   - Lacrimation (tearing)  \n\n---\n\n### Clinical Notes\n- Strongest autonomic activation among TACs  \n- Common mimic: posterior fossa lesions  \n- May overlap with trigeminal neuralgia or cluster headache  \n\n---\n\n## 3.3.2 SUNA (Short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms)\n\n### Diagnostic Criteria\nA. Attacks fulfilling criteria for 3.3  \nB. Only one OR neither of:\n   - Conjunctival injection  \n   - Lacrimation  \n\n---\n\n### Clinical Notes\n- Less prominent autonomic features compared to SUNCT  \n- Considered a broader category that may include SUNCT-like variants  \n\n\n## 3.4 Hem', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', 'tive of neural damage. The primary pain is usually continuous or near-continuous, and commonly described as burning, squeezing, aching or likened to pins and needles. Superimposed brief pain paroxysms may occur but these are not the predominant pain type. This combination is distinct from that of 4.1.1 Trigeminal neuralgia. There are clinically detectable somatosensory changes within the trigeminal distribution, and mechanical allodynia and cold hyperalgesia/allodynia are common, fulfilling the IASP criteria for neuropathic pain. Allodynic areas may be much larger than the punctate trigger zones present in 4.1.1 Trigeminal neuralgia.\n\n---\n\n## 4.1.2.1 Trigeminal neuropathic pain attributed to herpes zoster\n\n### Description\nUnilateral facial pain of less than 3 months’ duration in the distribution of one or more branches of the trigeminal nerve, caused by, and associated with other symptoms and/or clinical signs of, acute herpes zoster.\n\n### Diagnostic criteria\n\nA. Unilateral facial pain in the distribution(s) of a trigeminal nerve branch or branches, lasting <3 months  \n\nB. One or more of the following:  \n1. herpetic eruption has occurred in the same trigeminal distribution (as the pain)  \n2. Varicella-zoster virus (VZV) has been detected in the cerebrospinal fluid (CSF) by polymerase chain reaction (PCR)  \n3. direct immunofluorescence assay for VZV antigen or PCR assay for VZV DNA is positive in cells obtained from the base of lesions  \n\nC. Not better accounted for by another', '3 months and fulfilling criteria C and D  \n\nB. Both of the following:  \n1. history of a mechanical, thermal, radiation or chemical injury to the peripheral trigeminal nerve(s)  \n2. diagnostic test confirmation¹ of a lesion of the peripheral trigeminal nerve(s) explaining the pain²  \n\nC. Onset within 6 months after the injury³  \n\nD. Associated with somatosensory symptoms and/or signs⁴ in the same neuroanatomically plausible distribution  \n\nE. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Notes\n\n1. Tests that confirm a relevant lesion or disease affecting the trigeminal nerve may, for example, be surgical or radiological confirmation of nerve compression or lesion, nerve conduction study, laser-evoked potentials, blink reflex or skin biopsy confirmation of reduced nerve fibre terminals. Positive findings in these investigations may provide important diagnostic hints at the source of pain. However, all clinical and diagnostic aspects of the pain need to be considered.  \n\n2. The severity of nerve injuries may range from mild to severe. They include external trauma and iatrogenic injuries from dental treatments such as local anaesthetic injections, root canal therapies, extractions, oral surgery, dental implants, orthognathic surgery and other invasive procedures.  \n\n3. Specifically following radiation-induced postganglionic injury, neuropathic pain may appear after >3 months.  \n\n4. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypa']","1) Primary diagnosis
+   - Painful post-traumatic trigeminal neuropathy
+
+2) Differential diagnoses
+   - Myalgia
+   - Arthralgia
+   - Idiopathic trigeminal neuropathic pain
+   - Headache attributed to temporomandibular disorder
+
+3) Clinical reasoning
+   - **Painful post-traumatic trigeminal neuropathy** is the best-supported diagnosis. The vignette shows unilateral right-sided pain in the lower right lip, right mandibular division of the trigeminal nerve (V3) area, mental nerve territory, and ipsilateral gums, with associated numbness of the lower right lip. The onset was approximately one year ago after a biopsy performed by an ear, nose, and throat (ENT) clinician, which is a relevant mechanical procedure that could injure a peripheral trigeminal nerve branch. The cranial nerve examination shows hypoesthesia of the right lower lip and hyperalgesia in the right V3 intraoral/mental nerve territory, which are somatosensory signs in a neuroanatomically plausible distribution. This pattern fits the retrieved ICOP content for post-traumatic trigeminal neuropathy: pain in a trigeminal distribution, history of injury to a peripheral trigeminal nerve, and associated somatosensory symptoms/signs in the same distribution. The vignette strongly supports a mental nerve/inferior alveolar nerve branch distribution on the right.
+   - **Myalgia** is considered because bilateral masseter and temporalis palpation scores are 3/3, and lateral movements produced contralateral masseter pain. Under DC/TMD, myalgia requires pain in the jaw/temple/ear region modified by jaw movement or function and familiar pain reproduced with palpation or opening. The examination suggests masticatory muscle tenderness/pain, but the vignette does not report jaw-region pain as a complaint and does not state that palpation reproduced familiar pain. Therefore, DC/TMD criteria are not fully met from the provided data, so this remains a lower-ranked differential rather than a primary diagnosis.
+   - **Arthralgia** is considered because temporomandibular joint palpation tenderness is 1 bilaterally. However, the vignette does not report pain in the TMJ area, pain modified by jaw movement, or familiar joint pain reproduced by TMJ provocation as required by DC/TMD. No joint sounds are noted, and there is no reported joint loading pain. This makes arthralgia less likely than neuropathic pain and less likely than myalgia.
+   - **Idiopathic trigeminal neuropathic pain** is less likely because there is a clear temporal relationship to a biopsy, making a traumatic etiology more plausible than idiopathic neuropathic pain.
+   - **Headache attributed to temporomandibular disorder** is unlikely because the vignette does not report temple headache, headache modified by jaw function, or familiar headache reproduced by temporalis palpation/opening. It is included only as a remote TMD-related differential given the marked temporalis palpation pain scores.
+
+4) Next steps
+   - Perform a focused neurosensory examination of the right mandibular division of the trigeminal nerve (V3), especially the mental nerve/inferior alveolar nerve distribution, including light touch, pinprick, two-point discrimination, and mapping of hypoesthesia/hyperalgesia to confirm neuropathic involvement.
+   - Obtain and review records from the prior biopsy, including exact site and operative details, to determine whether the procedure plausibly injured the right mental nerve or another peripheral trigeminal nerve branch.
+   - Consider cone beam computed tomography (CBCT) or other appropriate imaging of the right mandibular/mental foramen region if the biopsy site was near the mental nerve, to assess for structural injury or other local causes of persistent neuropathic symptoms.
+   - Document whether the pain is continuous or intermittent and whether there is mechanical allodynia or triggerability, to better phenotype the neuropathic pain and distinguish it from other facial pain disorders.
+   - Begin conservative neuropathic pain management and avoid irreversible dental or temporomandibular joint interventions unless a separate diagnosis is confirmed.",V8_arch3_20260411_075852.json
+V10,"# Case ID
+- ID: V10
+- Age: 42
+- Sex: Female
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Pain in the right upper molar region.
+
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: Right upper molar region and right cheek
+- Side: Right
+- Onset and duration: Gradual onset approximately 3 weeks ago
+- Pain quality: Dull, aching
+- Intensity: 5/10
+- Temporal pattern: Intermittent throughout the day
+- Aggravating factors: Chewing, prolonged speaking
+- Relieving factors: Resting the jaw, soft foods
+- Associated symptoms: Jaw tightness
+
+---
+
+## Headache (if present)
+- Present: No
+- Location: Not applicable
+- Frequency pattern: Not applicable
+- Associated features: Not applicable
+- Relationship to jaw pain: Not applicable
+
+---
+
+# TMJ / Jaw History
+- Pain with jaw movement: No significant joint-related pain reported
+- Joint sounds: Occasional mild clicking on the right
+- Locking history: None reported
+- Bite change: None reported
+- Parafunction: Frequent daytime clenching during stressful work periods
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: Not reported
+- Morning jaw soreness: Not reported
+- Stress level: Increased work-related stress
+- Awareness of clenching or grinding: Daytime clenching reported
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: None reported
+- Neurologic history: None reported
+- Psychiatric history: None reported
+- Current medications: None reported
+- Drug allergies: None reported
+- Recent dental treatment or trauma: None reported
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening: 43 mm
+- Comfortable opening: Not reported
+- Pain with opening or lateral movement: Not reported
+- Deviation on opening: None reported
+- Right lateral movement: Not reported
+- Left lateral movement: Not reported
+- Protrusion: Not reported
+- Overjet: Not reported
+- Overbite: Not reported
+
+## Muscle Palpation (0–3 scale)
+
+- Masseter (R/L): 2 / 0
+- Temporalis (R/L): 0 / 0
+- Sternocleidomastoid (R/L): 0 / 0
+- Occipital region (R/L): 0 / 0
+- Trapezius (R/L): 0 / 0
+- Familiar pain reproduced: Yes
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 1 / 0 
+- Pain with joint loading: None reported
+- Joint sounds: None reported
+
+## Dental / Oral Examination
+- Soft tissue findings: Not reported
+- Dentition status: No dental pathology reported
+- Occlusion: Not reported
+- Signs of parafunction: Mild tooth wear facets
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: Normal
+- Cervical findings: Not reported
+
+---
+
+# Imaging (if available)
+- Type: Dental examination and radiographs
+- Key findings: No evidence of dental pathology; no structural abnormalities reported
+
+---
+
+# Additional Notes
+Palpation of the right masseter reproduced familiar pain.","42-year-old woman with a 3-week history of intermittent dull, aching pain (5/10) in the right upper molar region and right cheek, aggravated by chewing and prolonged speaking and relieved by resting the jaw and eating soft foods, with associated jaw tightness. She reports frequent daytime clenching during stressful work periods and increased work-related stress. Examination showed tenderness of the right masseter (2/3) with reproduction of her familiar pain and mild right TMJ palpation tenderness (1/3). Occasional mild clicking on the right and mild tooth wear facets were also present.","[' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', 'for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', '\n\n# Diagnostic Criteria for Temporomandibular Disorders (DC/TMD)\n\nSource: Schiffman et al., 2014  \nDiagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications.\n\n---\n\n# Muscle Disorders\n\n## Myalgia (ICD-9 729.1; ICD-10 M79.1)*\n\n**Description**  \nPain of muscle origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the masticatory muscles.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, in the ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for both of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ in the temporalis or masseter muscle(s) with at least one of the following provocation tests:  \n   a. Palpation of the temporalis or masseter muscle(s); OR  \n   b. Maximum unassisted or assisted opening movement(s).\n\n**Validity**  \nSensitivity 0.90; Specificity 0.99\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n\n## Local myalgia (ICD-9 729.1; ICD-10 M79.1)\n\n**Description**  \nPain of muscle origin as described for myalgia with localization of pain only at the site of p', 'iagnosis  \n\n---\n\n### Notes\n- Indomethacin dosing:\n  - Oral: ≥150 mg/day (up to 225 mg/day)  \n  - Injection: 100–200 mg  \n- Migrainous features (photophobia, phonophobia) may be present  \n\n---\n\n### Clinical Features\n- Continuous (not episodic) pain  \n- Unilateral with superimposed exacerbations  \n- Absolute indomethacin response (shared with paroxysmal hemicrania)  \n\n---\n\n## 3.5 Probable trigeminal autonomic cephalalgia\n\n### Description\nHeadache attacks that resemble a TAC but are missing one required diagnostic criterion for a specific TAC subtype.\n\n---\n\n### Diagnostic Criteria\nA. Attacks fulfilling all but one of the criteria for:\n   - 3.1 Cluster headache OR  \n   - 3.2 Paroxysmal hemicrania OR  \n   - 3.3 Short-lasting unilateral neuralgiform headache attacks OR  \n   - 3.4 Hemicrania continua  \nB. Do not meet full criteria for any other headache disorder  \nC. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Clinical Notes\n- Used when presentation is incomplete or early  \n- May evolve into a definitive TAC diagnosis over time  ', '(TACs) share the clinical features of unilateral headache and, usually, prominent cranial parasympathetic autonomic features, which are lateralized and ipsilateral to the headache. Experimental and human functional imaging suggests these syndromes activate a normal human trigeminal-parasympathetic reflex, with the clinical signs of cranial sympathetic dysfunction being secondary.\n\nTypical migraine aura can be seen, rarely, in association with TACs.\n\n---\n\n# 3.1 Cluster headache\n\n## Previously used terms:\nCiliary neuralgia; erythromelalgia of the head; erythroprosopalgia of Bing; hemicrania angioparalytica; hemicrania neuralgiformis chronica; histaminic cephalalgia; Horton’s headache; Harris-Horton’s disease; migrainous neuralgia (of Harris); petrosal neuralgia (of Gardner); Sluder’s neuralgia; sphenopalatine neuralgia; vidian neuralgia.\n\n---\n\n## Coded elsewhere:\nSymptomatic cluster headache, secondary to another disorder, is coded as a secondary headache attributed to that disorder.\n\n---\n\n## Description:\nAttacks of severe, strictly unilateral pain which is orbital, supraorbital, temporal or in any combination of these sites, lasting 15-180 minutes and occurring from once every other day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks ful', 'tacks fulfilling criteria for 3.2 Paroxysmal hemicrania  \nB. Occurring for >1 year:\n   - Without remission, OR  \n   - With remission periods <3 months  \n\n---\n\n### Clinical Note\n- May co-occur with trigeminal neuralgia (CPH-tic syndrome)  \n- Both conditions must be treated when present  \n\n## 3.3 Short-lasting unilateral neuralgiform headache attacks\n\n### Description\nAttacks of moderate or severe, strictly unilateral head pain lasting seconds to minutes, occurring at least once daily. Pain is typically in orbital, supraorbital, temporal, or other trigeminal distributions and is usually associated with ipsilateral cranial autonomic symptoms, especially lacrimation and conjunctival injection.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–D  \nB. Moderate or severe unilateral head pain lasting 1–600 seconds  \n   - Occurs as single stabs, series of stabs, or saw-tooth pattern  \nC. At least one of the following ipsilateral autonomic symptoms:\n   - Conjunctival injection and/or lacrimation  \n   - Nasal congestion and/or rhinorrhoea  \n   - Eyelid oedema  \n   - Forehead and facial sweating  \n   - Forehead and facial flushing  \n   - Sensation of fullness in the ear  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n#', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', 'ubtypes), whereas clinical sensory examination very rarely reveals slight sensory deficits.\n\nThe pain of 6.1 Burning mouth syndrome is usually bilateral, but on rare occasions it is unilateral. Its intensity fluctuates. The most common site is the tip of the tongue. Subjective xerostomia, dysaesthesia and altered taste are present in two-thirds of cases reported.\n\nThere is a high preponderance in menopausal women. Some studies show psychosocial comorbidities similar to those of other persistent pain conditions. Recent data point to varying levels of changes in somatosensory function in patients with 6.1 Burning mouth syndrome. These findings encourage further research into the disorder as a possible neuropathic pain condition.\n\nBurning mouth symptoms may occur as secondary phenomena due to a local or systemic condition, as in subforms of 1.1.3 Gingival pain or 1.2.1 Oral mucosal pain. They have previously been known as ‘secondary burning mouth syndrome’, but should be coded to these disorders. 6.1 Burning mouth syndrome is diagnosed only when all local and systemic causes have been excluded (hence, previously, ‘primary burning mouth syndrome’).\n\n---\n\n## 6.1.1 Burning mouth syndrome without somatosensory changes\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, unaccompanied by somatosensory changes and without evident causative lesions on clinical examination and investigation.\n\n### Diagnosti', '\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day but for less than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### Diagnostic criterion\n\nA. Oral pain fulfilling criteria for 6.1 Burning mouth syndrome except that it has been present for <3 months¹  \n\n### Note\n\n1. Once 3 months have elapsed, the diagnosis becomes 6.1 Burning mouth syndrome (or one of its subtypes).\n\n### Comment\n\nSubforms are not formally classified but may be coded 6.1.3.1 Probable burning mouth syndrome without somatosensory changes or 6.1.3.2 Probable burning mouth syndrome with somatosensory changes according to the criteria above. ']","1) Primary diagnosis
+   - Local myalgia
+
+2) Differential diagnoses
+   - Arthralgia
+   - Myalgia
+   - Myofascial pain with referral
+   - Disc displacement with reduction
+   - Persistent idiopathic facial pain
+
+3) Clinical reasoning
+   - **Local myalgia**: The vignette supports a muscle pain diagnosis under the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD). History shows pain in the right cheek/right upper molar region, modified by jaw function: it is aggravated by chewing and prolonged speaking and relieved by resting the jaw and soft foods. Examination shows right masseter palpation pain score 2 with reproduction of familiar pain, while temporalis palpation is 0 bilaterally. This supports pain of muscle origin in the right masseter. The vignette does not report pain spreading beyond the palpated muscle or referral beyond the muscle boundary, so the most specific supported diagnosis is local myalgia rather than myofascial pain with referral. Frequent daytime clenching, jaw tightness, and mild tooth wear facets further support a masticatory muscle disorder.
+   - **Arthralgia**: Considered because there is mild right temporomandibular joint (TMJ) palpation tenderness (score 1). However, the history specifically states no significant joint-related pain, there is no reported familiar TMJ pain with provocation, and no pain with joint loading. Therefore DC/TMD criteria for arthralgia are not met, making this less likely than masseter myalgia.
+   - **Myalgia**: This broader DC/TMD muscle diagnosis is supported by the same findings as above. It is ranked below local myalgia because local myalgia is the more specific diagnosis supported by the vignette. I include it only as a differential framework diagnosis, not as a co-primary diagnosis.
+   - **Myofascial pain with referral**: The retrieved DC/TMD excerpt requires familiar pain on palpation plus pain at a site beyond the boundary of the muscle being palpated. The vignette reports familiar pain with right masseter palpation, and the clinical complaint includes right upper molar region pain, which can be compatible with referred masseter pain. However, the vignette does not explicitly state that palpation produced pain beyond the masseter boundary or referred pain into the molar region during examination. Therefore this cannot be confirmed from the stated findings and is ranked below local myalgia.
+   - **Disc displacement with reduction**: Occasional mild clicking on the right raises this possibility, but the retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone. It is ranked lower because clicking is mild, there is no locking, no bite change, no deviation, and the pain pattern is better explained by right masseter muscle pain.
+   - **Persistent idiopathic facial pain**: The retrieved corpus did not contain sufficient guideline content to confirm this diagnosis; reasoning is based on vignette findings alone. It is less likely because the pain has been present only about 3 weeks, is modified by jaw function, and familiar pain is reproduced with right masseter palpation, all of which favor a temporomandibular disorder-related muscle pain rather than idiopathic facial pain.
+
+4) Next steps
+   - Perform a focused DC/TMD-style muscle examination to confirm whether palpation of the right masseter causes only local pain or pain referral beyond the muscle boundary, helping distinguish local myalgia from myofascial pain with referral.
+   - Repeat targeted TMJ provocation testing, including lateral pole palpation and pain with mandibular movements, to confirm or refute coexisting arthralgia.
+   - Begin conservative reversible management directed at masticatory muscle overuse: patient education, soft diet/limited chewing load, avoidance of daytime clenching, jaw relaxation strategies, and self-monitoring of parafunction.
+   - Reassess symptom course after conservative care; if pain persists, worsens, or the pain pattern becomes atypical for temporomandibular disorder (TMD), repeat dental/orofacial evaluation to exclude non-TMD causes despite currently negative dental examination and radiographs.
+   - Consider referral to an orofacial pain specialist or physical therapist experienced in temporomandibular disorders if symptoms do not improve or if examination suggests more complex coexisting temporomandibular joint or referred pain mechanisms.",V10_arch3_20260410_205350.json
+V11,"# Case ID
+- ID: V11
+- Age: 36
+- Sex: Male
+- Setting: Orofacial Pain Clinic (Synthetic Research Case)
+
+---
+
+# Chief Complaint
+Persistent aching pain in the left temple and jaw region
+---
+
+# History of Present Illness
+
+## Pain Characteristics
+- Location: Left temporal region with occasional spread toward the cheek and upper jaw region
+- Side: Left
+- Onset and duration: Gradual onset approximately 2 months ago
+- Pain quality: Dull, pressure-like ache
+- Intensity: 6/10
+- Temporal pattern: Occurs most days; episodes last several hours
+- Aggravating factors: Chewing gum, prolonged talking
+- Relieving factors: Resting the jaw, gentle massage
+- Associated symptoms: Morning jaw fatigue, occasional muscle soreness on waking
+
+---
+
+## Headache (if present)
+- Present: No
+- Location: Not applicable
+- Frequency pattern: Not applicable
+- Associated features: Not applicable
+- Relationship to jaw pain: Not applicable
+
+---
+
+# TMJ / Jaw History
+- Pain with jaw movement: Left preauricular/TMJ pain during opening and chewing
+- Joint sounds: None reported
+- Locking history: None reported
+- Bite change: None reported
+- Parafunction: Clenching during stressful situations reported
+
+---
+
+# Sleep and Behavioral Factors
+- Sleep quality: Non-restorative sleep
+- Morning jaw soreness: Present
+- Stress level: High work-related stress
+- Awareness of clenching or grinding: Clenching reported
+
+---
+
+# Relevant Medical and Dental History
+- Systemic conditions: None reported
+- Neurologic history: None reported
+- Psychiatric history: None reported
+- Current medications: None reported
+- Drug allergies: None reported
+- Recent dental treatment or trauma: No recent trauma or dental procedures
+
+---
+
+# Clinical Examination
+
+## Mandibular Function
+- Maximum opening: 41 mm
+- Comfortable opening: Not reported
+- Pain with opening or lateral movement: Slight discomfort on opening
+- Deviation on opening: None reported
+- Right lateral movement: Not reported
+- Left lateral movement: Not reported
+- Protrusion: Not reported
+- Overjet: Not reported
+- Overbite: Not reported
+
+## Muscle Palpation (0–3 scale)
+
+- Masseter (R/L): 2 / 2
+- Temporalis (R/L): 0 / 1
+- Sternocleidomastoid (R/L): 0 / 1
+- Occipital region (R/L): 0 / 1
+- Trapezius (R/L): 0 / 0
+- Familiar pain reproduced: Yes
+
+## Joint Examination
+- TMJ palpation tenderness (R/L): 0 / 2
+- Pain with joint loading: Present on left side
+- Joint sounds: None reported
+
+## Dental / Oral Examination
+- Soft tissue findings: Not reported
+- Dentition status: Intact dentition
+- Occlusion: Stable
+- Signs of parafunction: Generalized tooth wear facets
+
+## Cranial Nerve and Cervical Findings
+- Cranial nerve exam: Normal
+- Cervical findings: Not reported
+
+---
+
+# Imaging (if available)
+- Type: TMJ imaging
+- Key findings: No evidence of joint pathology
+
+---
+
+# Additional Notes
+Palpation of the left temporalis reproduced familiar pain with spread toward the cheek region.","36-year-old man with a 2-month history of persistent dull, pressure-like aching pain (6/10) in the left temporal region radiating toward the cheek and upper jaw, occurring most days for several hours at a time. Pain is aggravated by chewing gum, prolonged talking, and jaw movement, with left preauricular/TMJ pain during opening and chewing, slight discomfort on opening, and relief with jaw rest and gentle massage. Associated features include morning jaw fatigue/soreness, non-restorative sleep, high work-related stress, and stress-related clenching, with generalized tooth wear facets indicating parafunction. Examination showed tenderness of the left TMJ with pain on joint loading, bilateral masseter tenderness, and tenderness of the left temporalis, sternocleidomastoid, and occipital region; palpation of the left temporalis reproduced the familiar pain with spread toward the cheek.","['for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in the TMJ with at least one of the following provocation tests:  \n   a. Palpation of the lateral pole or around the lateral pole; OR  \n   b. Maximum unassisted or assisted opening, right or left lateral, or protrusive movement(s).\n\n**Validity**\n\nSensitivity 0.89; Specificity 0.98\n\n**Comments**\n\nThe pain is not better accounted for by another pain diagnosis.\n\n# Headache\n\n## Headache attributed to TMD (ICD-9 339.89 and 748.0; ICD-10 G44.89)\n\n**Description**\n\nHeadache in the temple area secondary to pain-related TMD (see Note) that is affected by jaw movement, function, or parafunction, and replication of this headache occurs with provocation testing of the masticatory system.\n\n**History**\n\nPositive for both of the following:\n\n1. Headache** of any type in the temple; AND  \n2. Headache modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of headache location in the area of the temporalis muscle(s); AND  \n2. Report of familiar headache‡ in the temple area with at least one of the following provocation tests:  \n   a. Palpation of the temporalis muscle(s); OR  \n   b. Maximum unassisted or assisted opening, right or left latera', ' pain beyond the boundary of the muscle being palpated when using the myofascial examination protocol.47 Spreading pain may also be present.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for all of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ with palpation of the temporalis or masseter muscle(s); AND  \n3. Report of pain at a site beyond the boundary of the muscle being palpated.\n\n**Validity**  \nSensitivity 0.86; Specificity 0.98\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n# Joint Disorders\n\n## Arthralgia (ICD-9 524.62; ICD-10 M26.62)\n\n**Description**\n\nPain of joint origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the TMJ.\n\n**History**\n\nPositive for both of the following:\n\n1. Pain** in the jaw, temple, ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function, or parafunction.\n\n**Exam**\n\nPositive for both of the following:\n\n1. Confirmation† of pain location in the area of the TMJ(s); AND  \n2. Report of familiar pain‡ in th', '\n\n# Diagnostic Criteria for Temporomandibular Disorders (DC/TMD)\n\nSource: Schiffman et al., 2014  \nDiagnostic Criteria for Temporomandibular Disorders (DC/TMD) for Clinical and Research Applications.\n\n---\n\n# Muscle Disorders\n\n## Myalgia (ICD-9 729.1; ICD-10 M79.1)*\n\n**Description**  \nPain of muscle origin that is affected by jaw movement, function, or parafunction, and replication of this pain occurs with provocation testing of the masticatory muscles.\n\n**History**  \nPositive for both of the following:  \n1. Pain** in the jaw, temple, in the ear, or in front of ear; AND  \n2. Pain modified with jaw movement, function or parafunction.\n\n**Exam**  \nPositive for both of the following:  \n1. Confirmation† of pain location(s) in the temporalis or masseter muscle(s); AND  \n2. Report of familiar pain‡ in the temporalis or masseter muscle(s) with at least one of the following provocation tests:  \n   a. Palpation of the temporalis or masseter muscle(s); OR  \n   b. Maximum unassisted or assisted opening movement(s).\n\n**Validity**  \nSensitivity 0.90; Specificity 0.99\n\n**Comments**  \nThe pain is not better accounted for by another pain diagnosis. Other masticatory muscles may be examined as dictated by clinical circumstances, but the sensitivity and specificity for this diagnosis based on these findings have not been established.\n\n---\n\n## Local myalgia (ICD-9 729.1; ICD-10 M79.1)\n\n**Description**  \nPain of muscle origin as described for myalgia with localization of pain only at the site of p', '(TACs) share the clinical features of unilateral headache and, usually, prominent cranial parasympathetic autonomic features, which are lateralized and ipsilateral to the headache. Experimental and human functional imaging suggests these syndromes activate a normal human trigeminal-parasympathetic reflex, with the clinical signs of cranial sympathetic dysfunction being secondary.\n\nTypical migraine aura can be seen, rarely, in association with TACs.\n\n---\n\n# 3.1 Cluster headache\n\n## Previously used terms:\nCiliary neuralgia; erythromelalgia of the head; erythroprosopalgia of Bing; hemicrania angioparalytica; hemicrania neuralgiformis chronica; histaminic cephalalgia; Horton’s headache; Harris-Horton’s disease; migrainous neuralgia (of Harris); petrosal neuralgia (of Gardner); Sluder’s neuralgia; sphenopalatine neuralgia; vidian neuralgia.\n\n---\n\n## Coded elsewhere:\nSymptomatic cluster headache, secondary to another disorder, is coded as a secondary headache attributed to that disorder.\n\n---\n\n## Description:\nAttacks of severe, strictly unilateral pain which is orbital, supraorbital, temporal or in any combination of these sites, lasting 15-180 minutes and occurring from once every other day to eight times a day. The pain is associated with ipsilateral conjunctival injection, lacrimation, nasal congestion, rhinorrhoea, forehead and facial sweating, miosis, ptosis and/or eyelid oedema, and/or with restlessness or agitation.\n\n---\n\n## Diagnostic criteria:\n\nA. At least five attacks ful', 'iagnosis  \n\n---\n\n### Notes\n- Indomethacin dosing:\n  - Oral: ≥150 mg/day (up to 225 mg/day)  \n  - Injection: 100–200 mg  \n- Migrainous features (photophobia, phonophobia) may be present  \n\n---\n\n### Clinical Features\n- Continuous (not episodic) pain  \n- Unilateral with superimposed exacerbations  \n- Absolute indomethacin response (shared with paroxysmal hemicrania)  \n\n---\n\n## 3.5 Probable trigeminal autonomic cephalalgia\n\n### Description\nHeadache attacks that resemble a TAC but are missing one required diagnostic criterion for a specific TAC subtype.\n\n---\n\n### Diagnostic Criteria\nA. Attacks fulfilling all but one of the criteria for:\n   - 3.1 Cluster headache OR  \n   - 3.2 Paroxysmal hemicrania OR  \n   - 3.3 Short-lasting unilateral neuralgiform headache attacks OR  \n   - 3.4 Hemicrania continua  \nB. Do not meet full criteria for any other headache disorder  \nC. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Clinical Notes\n- Used when presentation is incomplete or early  \n- May evolve into a definitive TAC diagnosis over time  ', 'tacks fulfilling criteria for 3.2 Paroxysmal hemicrania  \nB. Occurring for >1 year:\n   - Without remission, OR  \n   - With remission periods <3 months  \n\n---\n\n### Clinical Note\n- May co-occur with trigeminal neuralgia (CPH-tic syndrome)  \n- Both conditions must be treated when present  \n\n## 3.3 Short-lasting unilateral neuralgiform headache attacks\n\n### Description\nAttacks of moderate or severe, strictly unilateral head pain lasting seconds to minutes, occurring at least once daily. Pain is typically in orbital, supraorbital, temporal, or other trigeminal distributions and is usually associated with ipsilateral cranial autonomic symptoms, especially lacrimation and conjunctival injection.\n\n---\n\n### Diagnostic Criteria\nA. At least 20 attacks fulfilling criteria B–D  \nB. Moderate or severe unilateral head pain lasting 1–600 seconds  \n   - Occurs as single stabs, series of stabs, or saw-tooth pattern  \nC. At least one of the following ipsilateral autonomic symptoms:\n   - Conjunctival injection and/or lacrimation  \n   - Nasal congestion and/or rhinorrhoea  \n   - Eyelid oedema  \n   - Forehead and facial sweating  \n   - Forehead and facial flushing  \n   - Sensation of fullness in the ear  \n   - Miosis and/or ptosis  \nD. Occurring at least once per day  \nE. Not better accounted for by another ICHD-3 diagnosis  \n\n---\n\n### Notes\n- Attack frequency may be lower during part of the disease course (but less than half of the time)  \n- Longer attacks often show a saw-tooth pattern  \n\n---\n\n#', 'tion can change over time, with paroxysms becoming more prolonged. A minority of patients will report attacks predominantly lasting for >2 minutes.  \n3. Pain may become more severe over time.  \n4. Some attacks may be, or appear to be, spontaneous, but there must be a history or finding of pain provoked by innocuous stimuli to meet this criterion. Ideally, the examining clinician should attempt to confirm the history by replicating the triggering phenomenon. However, this may not always be possible because of the patient’s refusal, the awkward anatomical location of the trigger and/or other factors.  \n\n---\n\n### Comments\n\nOther than the triggering phenomenon, most patients with 4.1.1 Trigeminal neuralgia fail to show sensory abnormalities within the trigeminal territory unless advanced methods are used (e.g. quantitative sensory testing). However, in some patients, clinical neurological examination may show sensory deficits. These should prompt neuroimaging investigations to explore the possible cause. Diagnosis of subforms such as 4.1.1.1 Classical trigeminal neuralgia, 4.1.1.2 Secondary trigeminal neuralgia or 4.1.1.3 Idiopathic trigeminal neuralgia is then possible.\n\nWhen very severe, the pain often evokes contraction of the muscles of the face on the affected side (tic douloureux).\n\nMild autonomic symptoms such as lacrimation and/or redness of the ipsilateral eye may be present.\n\nFollowing a painful paroxysm, there is usually a refractory period during which pain cannot be ', 'iterion C  \n\nB. Both of the following:  \n1. a lesion of the peripheral trigeminal nerve(s), explaining the pain, has been diagnosed  \n2. no history of trauma or disorder with possible peripheral trigeminal nerve involvement  \n\nC. Pain is associated with somatosensory symptoms and/or signs¹ in the same neuroanatomically plausible distribution  \n\nD. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Note\n\n1. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypalgesia) and/or positive (e.g. hyperalgesia and/or allodynia).\n\n## 6. Idiopathic orofacial pain\n\n### Description\nUnilateral or bilateral intraoral or facial pain in the distribution(s) of one or more branches of the trigeminal nerve(s) for which the aetiology is unknown. The pain is usually persistent, of moderate intensity, poorly localized and described as dull, pressing or of burning character.\n\n### Classified elsewhere\n4.1.1.3 Idiopathic trigeminal neuralgia  \n4.1.2.5 Idiopathic trigeminal neuropathic pain  \n4.2.1.3 Idiopathic glossopharyngeal neuralgia  \n4.2.2.2 Idiopathic glossopharyngeal neuropathic pain  \n\n---\n\n## 6.1 Burning mouth syndrome (BMS)\n\n### Previously used terms\nStomatodynia; glossodynia (when confined to the tongue); primary burning mouth syndrome.\n\n### Description\nAn intraoral burning or dysaesthetic sensation, recurring daily for more than 2 hours per day for more than 3 months, without evident causative lesions on clinical examination and investigation.\n\n### D', '3 months and fulfilling criteria C and D  \n\nB. Both of the following:  \n1. history of a mechanical, thermal, radiation or chemical injury to the peripheral trigeminal nerve(s)  \n2. diagnostic test confirmation¹ of a lesion of the peripheral trigeminal nerve(s) explaining the pain²  \n\nC. Onset within 6 months after the injury³  \n\nD. Associated with somatosensory symptoms and/or signs⁴ in the same neuroanatomically plausible distribution  \n\nE. Not better accounted for by another ICOP or ICHD-3 diagnosis.\n\n### Notes\n\n1. Tests that confirm a relevant lesion or disease affecting the trigeminal nerve may, for example, be surgical or radiological confirmation of nerve compression or lesion, nerve conduction study, laser-evoked potentials, blink reflex or skin biopsy confirmation of reduced nerve fibre terminals. Positive findings in these investigations may provide important diagnostic hints at the source of pain. However, all clinical and diagnostic aspects of the pain need to be considered.  \n\n2. The severity of nerve injuries may range from mild to severe. They include external trauma and iatrogenic injuries from dental treatments such as local anaesthetic injections, root canal therapies, extractions, oral surgery, dental implants, orthognathic surgery and other invasive procedures.  \n\n3. Specifically following radiation-induced postganglionic injury, neuropathic pain may appear after >3 months.  \n\n4. Somatosensory symptoms or signs may be negative (e.g. hypaesthesia and/or hypa']","1) Primary diagnosis
+   - Myofascial pain with referral
+   - Arthralgia
+
+2) Differential diagnoses
+   - Local myalgia
+   - Temporomandibular disorder-related pain
+   - Trigeminal autonomic cephalalgia
+   - Trigeminal neuralgia
+   - Idiopathic orofacial pain
+
+3) Clinical reasoning
+   - **Myofascial pain with referral**: The vignette supports a muscle-origin temporomandibular disorder (TMD) pain diagnosis under the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD). History is positive for pain in the left temple/jaw region and pain is modified by jaw function/parafunction: chewing gum and prolonged talking aggravate it, while jaw rest helps; clenching is reported. On examination, familiar pain is reproduced with muscle palpation. The additional note states that palpation of the left temporalis reproduced familiar pain with spread toward the cheek region. The DC/TMD excerpt for myofascial pain with referral requires pain in the jaw/temple region, pain modified by jaw movement/function/parafunction, confirmation of pain in temporalis or masseter, familiar pain with palpation, and pain beyond the boundary of the palpated muscle. Those elements are present. The left temporalis palpation score is 1, which indicates tenderness, but the vignette explicitly states familiar pain was reproduced and spread beyond the muscle boundary; this is the key feature supporting referral. Bilateral masseter scores are 2/2, indicating pain on palpation, but the symptomatic side and referred pattern are left-sided.
+   - **Arthralgia**: The vignette also supports temporomandibular joint (TMJ) arthralgia under DC/TMD. History shows left preauricular/TMJ pain during opening and chewing, so pain is in the TMJ area and modified by jaw movement/function. Examination shows left TMJ palpation score 2, indicating pain, and pain with joint loading on the left. Slight discomfort on opening is also reported. These findings support the DC/TMD concept of familiar TMJ pain reproduced by provocation testing. Imaging shows no evidence of joint pathology, which does not exclude arthralgia because arthralgia is a pain diagnosis rather than a structural imaging diagnosis.
+
+   - **Local myalgia**: This is a reasonable alternative within the same muscle pain spectrum because the patient has familiar pain reproduced in masticatory muscles and function-related pain. However, it is ranked below myofascial pain with referral because the vignette specifically documents spread of familiar pain from left temporalis palpation toward the cheek region, which better fits myofascial pain with referral rather than pain confined to the palpated muscle.
+   - **Temporomandibular disorder-related pain**: This broader label is likely in a general sense, but it is ranked below the specific primary diagnoses because the vignette supports more specific DC/TMD diagnoses: myofascial pain with referral and arthralgia.
+   - **Trigeminal autonomic cephalalgia**: The retrieved ICHD-3 excerpts describe unilateral temporal pain syndromes with cranial autonomic features and attack patterns. This case is less likely because the pain is dull/pressure-like, lasts several hours on most days, is clearly modified by jaw function, and no autonomic features, agitation, or TAC-type attack pattern are reported.
+   - **Trigeminal neuralgia**: Less likely because the vignette does not describe brief electric shock-like paroxysms, trigger zones, or innocuous stimulus-triggered stabbing pain. Cranial nerve examination is normal, and the pain pattern is persistent aching rather than neuralgiform.
+   - **Idiopathic orofacial pain**: Less likely because the pain is not unexplained; it is mechanically modified by jaw function and reproduced by palpation of the masticatory system, which strongly supports a TMD pain diagnosis instead. The pain is also not described as poorly localized in a way that would outweigh the clear musculoskeletal provocation findings.
+
+4) Next steps
+   - Perform a focused DC/TMD-style confirmation exam to document whether familiar pain is reproduced separately by left temporalis, left masseter, and left temporomandibular joint (TMJ) palpation and by mandibular movements.
+   - Clarify and map the referred pain pattern from left temporalis palpation to confirm that pain extends beyond the palpated muscle boundary, supporting myofascial pain with referral rather than local myalgia.
+   - Begin conservative management: patient education, avoidance of gum chewing and prolonged jaw loading, awareness reduction for clenching, and a soft diet/jaw rest trial.
+   - Consider a reversible oral appliance only if sleep-related clenching symptoms remain significant after conservative self-management; avoid irreversible occlusal treatment.
+   - Reassess response and monitor for any new red flags or evolution toward non-TMD pain patterns; referral to an orofacial pain specialist or physical therapist is appropriate if pain persists or diagnosis remains uncertain.",V11_arch3_20260411_085135.json

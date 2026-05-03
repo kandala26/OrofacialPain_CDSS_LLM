@@ -1,0 +1,4 @@
+case_id,faithfulness,suggested_primary_label,broad_topic_group,difficulty,analysis_group,score_category
+V5,0.0,Post-procedural trigeminal neuropathy with TMD features,Neuropathic,Hard,Neuropathic,Zero
+V6,0.0,Post-procedural trigeminal neuropathy,Neuropathic,Easy,Neuropathic,Zero
+V8,0.0,Post-procedural trigeminal neuropathy,Neuropathic,Hard,Neuropathic,Zero

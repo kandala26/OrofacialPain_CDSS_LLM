@@ -1,0 +1,16 @@
+## 1. Primary diagnosis
+**Cluster headache (a trigeminal autonomic cephalalgia), with prominent referred pain to the right posterior maxillary “tooth” region.**
+
+## 2. Differential diagnoses (2–5)
+1. **Paroxysmal hemicrania** (TAC; typically shorter attacks, very frequent; classically indomethacin-responsive)
+2. **SUNCT/SUNA** (TAC; very short-lasting attacks—seconds to minutes—with prominent cranial autonomic symptoms)
+3. **Trigeminal neuralgia (V2 distribution)** (brief electric/shock-like pains, often triggerable; autonomic features can occur but are usually less prominent)
+4. **Acute rhinosinusitis / sinus-related facial pain** (can refer to maxillary teeth; usually more continuous with nasal symptoms and not highly stereotyped attacks)
+5. **Odontogenic pain (pulpitis/cracked tooth) or periodontal disease** (tooth-localized, stimulus-provoked; lacks prominent ipsilateral autonomic signs and agitation/restlessness pattern)
+
+## 3. Clinical reasoning (brief but specific)
+- The attacks are **strictly unilateral** (right orbital/temporal) with **ipsilateral cranial autonomic features** (tearing, facial swelling, heat sensation), and occur **multiple times per day** with **severe intensity**—a classic pattern for a **trigeminal autonomic cephalalgia**.
+- The patient reports **marked restlessness/agitation during attacks** (cannot remain still, must stop driving), which strongly supports **cluster headache** over migraine and many dental/TMD causes.
+- Pain includes **deep “tooth”/maxillary posterior pain** occurring **simultaneously** with orbital/temporal head pain—consistent with **referred trigeminal pain** (V2) seen in cluster headache and a common reason for misattribution to dental sources.
+- **No TMD findings**: normal mandibular range of motion, no masticatory muscle or TMJ tenderness, no provocation with jaw function/loading.
+- **Complete resolution with verapamil preventive therapy** is highly supportive of **cluster headache**, as verapamil is a first-line preventive agent for this condition.

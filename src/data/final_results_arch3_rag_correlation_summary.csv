@@ -1,0 +1,4 @@
+comparison,pearson_r,spearman_rho
+arch3_human_mean_vs_response_relevancy,-0.6637026265195008,-0.6218706970438532
+arch3_human_mean_vs_context_utilization,0.24465216579915913,0.10970561792186269
+response_relevancy_vs_context_utilization,-0.10241869673506428,-0.06694619270045785
